@@ -59,22 +59,21 @@ typedef struct {
 void Write_syscall(const char* msg, const char* color_code);
 
 
+/**
+ * @brief Trims leading and trailing spaces from the given string.
+ * 
+ * @param str The string to be trimmed. The string is modified in place.
+ */
 void trim_spaces(char *str);
 
+/**
+ * @brief Reduces multiple spaces within the string to a single space.
+ * 
+ * @param str The string where spaces will be reduced. The string is modified in place.
+ */
 void reduce_spaces(char *str);
 
 
-/**
- * @brief Opens a file with the specified mode and performs error handling.
- *
- * This function attempts to open a file with the given path and mode. If the file cannot be opened,
- * an error message is printed to standard error.
- *
- * @param path The path to the file to be opened.
- * @param mode The mode in which to open the file (e.g., "rb", "wb").
- * @return A file pointer to the opened file, or NULL if the file could not be opened.
- */
-FILE* open_file(const char *path, const char *mode);
 
 /**
  * @brief Prints a line separator to the console.

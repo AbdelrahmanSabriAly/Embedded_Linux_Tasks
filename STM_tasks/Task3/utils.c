@@ -235,15 +235,26 @@ int Copy_Command(char** tokens) {
         return S_EXIT_INVALID_COMMAND; // Error
     }
 
-    if (tokens[1] == NULL || tokens[2] == NULL) {
+    int flags = O_WRONLY|O_TRUNC;
+    const char *source_path = NULL;
+    const char *target_path = NULL;
+
+    // Iterate through tokens to find options and paths
+    for (int i = 1; tokens[i] != NULL; ++i) {
+        if (strcmp(tokens[i], "-a") == 0) {
+            flags |= O_APPEND; // Add append flag if -a is found
+            flags &= ~O_TRUNC; // Remove truncate flag if -a is found
+        } else if (source_path == NULL) {
+            source_path = tokens[i];
+        } else if (target_path == NULL) {
+            target_path = tokens[i];
+        }
+    }
+
+    if (source_path == NULL || target_path == NULL) {
         Write_syscall("Error: No arguments passed to the command scp\n", red);
         return S_EXIT_NO_ARGS;
     }
-
-    int flags = O_WRONLY;
-    const char *source_path = (strcmp(tokens[1], "-a") == 0) ? tokens[2] : tokens[1];
-    const char *target_path = (strcmp(tokens[1], "-a") == 0) ? tokens[3] : tokens[2];
-    flags |= (strcmp(tokens[1], "-a") == 0)                  ? O_APPEND  : O_TRUNC;
 
     if (is_file(source_path) != EXIT_SUCCESS) {
         Write_syscall("Error: Source path is not a file or does not exist.\n", red);
@@ -260,7 +271,6 @@ int Copy_Command(char** tokens) {
         char *source_filename = basename((char *)source_path);
         snprintf(tempPath, sizeof(tempPath), "%s/%s", target_path, source_filename);
         target_path = tempPath;
-
     } else if (is_file(target_path) == S_EXIT_INVALID_COMMAND) {
         Write_syscall("Error: Target path is not a file or does not exist.\n", red);
         return S_EXIT_FILE_NOT_FOUND; // Error
@@ -272,7 +282,7 @@ int Copy_Command(char** tokens) {
         return S_EXIT_OPEN_FILE_FAILED; // Error
     }
 
-    int target_fd = open(target_path, flags);
+    int target_fd = open(target_path, flags,0664);
     if (target_fd == -1) {
         Write_syscall("Error opening target file\n", red);
         close(source_fd);
@@ -302,21 +312,33 @@ int Copy_Command(char** tokens) {
     return EXIT_SUCCESS; // Success
 }
 
+
 int Move_Command(char** tokens) {
     if (tokens == NULL) {
         Write_syscall("Error: Invalid tokens array.\n", red);
         return S_EXIT_INVALID_COMMAND; // Error
     }
 
-    if (tokens[1] == NULL || tokens[2] == NULL) {
+    int force_overwrite = 0;
+    const char *source_path = NULL;
+    const char *target_path = NULL;
+    char *source_filename;
+
+    // Iterate through tokens to find options and paths
+    for (int i = 1; tokens[i] != NULL; ++i) {
+        if (strcmp(tokens[i], "-f") == 0) {
+            force_overwrite = 1;
+        } else if (source_path == NULL) {
+            source_path = tokens[i];
+        } else if (target_path == NULL) {
+            target_path = tokens[i];
+        }
+    }
+
+    if (source_path == NULL || target_path == NULL) {
         Write_syscall("Error: No arguments passed to the command smv\n", red);
         return S_EXIT_NO_ARGS;
     }
-
-    int force_overwrite = (strcmp(tokens[1], "-f") == 0);
-    const char *source_path = force_overwrite ? tokens[2] : tokens[1];
-    const char *target_path = force_overwrite ? tokens[3] : tokens[2];
-    char *source_filename;
 
     if (is_directory(target_path) == EXIT_SUCCESS) {
         source_filename = basename((char *)source_path);
@@ -326,7 +348,7 @@ int Move_Command(char** tokens) {
     }
 
     if (is_file(target_path) == EXIT_SUCCESS && !force_overwrite) {
-        Write_syscall("The file target file already exists, use -f to force overwrite.\n", red);
+        Write_syscall("The target file already exists, use -f to force overwrite.\n", red);
         return S_EXIT_MODIFY_EXISTED_FILE; // Error
     }
 
@@ -370,6 +392,7 @@ int Move_Command(char** tokens) {
     Write_syscall("File moved successfully.\n", green);
     return EXIT_SUCCESS; // Success
 }
+
 
 int change_Directory_Command(char** tokens) {
     if (tokens == NULL || tokens[1] == NULL) {
