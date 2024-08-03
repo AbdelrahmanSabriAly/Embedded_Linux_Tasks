@@ -1,0 +1,1776 @@
+2024-03-04 09:54:27 - Process monitoring started
+2024-03-04 09:54:31 - Process monitoring started
+2024-03-04 09:54:56 - Process monitoring stopped
+2024-03-08 13:33:38 - Process monitoring started
+2024-03-08 13:33:42 - Process monitoring started
+2024-03-08 13:35:51 - Process monitoring stopped
+2024-03-08 13:35:55 - Process monitoring started
+2024-03-08 13:36:06 - Process monitoring started
+2024-03-09 09:04:18 - Process monitoring started
+2024-03-09 09:04:33 - Process monitoring started
+2024-03-09 09:09:14 - Process monitoring stopped
+2024-03-09 09:09:18 - Process monitoring started
+2024-03-09 09:09:22 - Process monitoring started
+2024-03-09 09:10:22 - Process monitoring stopped
+2024-03-09 09:10:24 - Process monitoring started
+2024-03-09 09:10:29 - Process monitoring started
+2024-03-09 09:10:59 - Process monitoring stopped
+2024-03-09 09:11:04 - Process monitoring started
+2024-03-09 09:11:09 - Process monitoring started
+2024-03-09 09:11:24 - Process monitoring stopped
+2024-03-09 09:12:21 - Process monitoring started
+2024-03-09 09:12:25 - Process monitoring started
+2024-03-09 09:21:15 - Process monitoring stopped
+2024-03-09 09:21:19 - Process monitoring started
+2024-03-09 09:21:22 - Process monitoring started
+2024-03-09 09:36:17 - Process monitoring stopped
+2024-03-09 09:36:20 - Process monitoring started
+2024-03-09 09:36:25 - Process monitoring started
+2024-03-09 09:36:47 - Process monitoring stopped
+2024-03-09 09:36:48 - Process monitoring started
+2024-03-09 09:36:53 - Process monitoring started
+2024-03-09 09:43:40 - Process monitoring stopped
+2024-03-09 09:43:41 - Process monitoring started
+2024-03-09 09:43:46 - Process monitoring started
+2024-03-09 09:59:15 - Process monitoring stopped
+2024-03-09 09:59:17 - Process monitoring started
+2024-03-09 10:00:35 - Process monitoring started
+2024-03-09 10:00:36 - Process monitoring stopped
+2024-03-09 10:07:36 - Process monitoring started
+2024-03-09 10:07:38 - Process monitoring started
+2024-03-09 10:10:26 - Process monitoring stopped
+2024-03-09 10:10:28 - Process monitoring started
+2024-03-09 10:10:34 - Warning: CPU usage not available for process 1
+2024-03-09 10:10:34 - Process 1 has exceeded memory threshold (80 KB): Memory usage is 12764 KB
+2024-03-09 10:10:34 - Warning: CPU usage not available for process 100
+2024-03-09 10:10:34 - Warning: Memory usage not available for process 100
+2024-03-09 10:10:34 - Warning: CPU usage not available for process 101
+2024-03-09 10:10:34 - Warning: Memory usage not available for process 101
+2024-03-09 10:10:34 - Warning: CPU usage not available for process 108
+2024-03-09 10:10:34 - Warning: Memory usage not available for process 108
+2024-03-09 10:10:34 - Warning: CPU usage not available for process 1082
+2024-03-09 10:10:34 - Process 1082 has exceeded memory threshold (80 KB): Memory usage is 39388 KB
+2024-03-09 10:10:34 - Warning: CPU usage not available for process 11
+2024-03-09 10:10:34 - Warning: Memory usage not available for process 11
+2024-03-09 10:10:34 - Warning: CPU usage not available for process 114
+2024-03-09 10:10:34 - Warning: Memory usage not available for process 114
+2024-03-09 10:10:34 - Warning: CPU usage not available for process 12
+2024-03-09 10:10:34 - Warning: Memory usage not available for process 12
+2024-03-09 10:10:34 - Warning: CPU usage not available for process 1243
+2024-03-09 10:10:34 - Process 1243 has exceeded memory threshold (80 KB): Memory usage is 13008 KB
+2024-03-09 10:10:34 - Warning: CPU usage not available for process 13
+2024-03-09 10:10:34 - Warning: Memory usage not available for process 13
+2024-03-09 10:10:34 - Warning: CPU usage not available for process 1333
+2024-03-09 10:10:34 - Process 1333 has exceeded memory threshold (80 KB): Memory usage is 11520 KB
+2024-03-09 10:10:34 - Warning: CPU usage not available for process 134
+2024-03-09 10:10:34 - Warning: Memory usage not available for process 134
+2024-03-09 10:10:34 - Warning: CPU usage not available for process 1349
+2024-03-09 10:10:34 - Process 1349 has exceeded memory threshold (80 KB): Memory usage is 2192 KB
+2024-03-09 10:10:34 - Warning: CPU usage not available for process 1351
+2024-03-09 10:10:34 - Process 1351 has exceeded memory threshold (80 KB): Memory usage is 2056 KB
+2024-03-09 10:10:34 - Warning: CPU usage not available for process 137
+2024-03-09 10:10:34 - Warning: Memory usage not available for process 137
+2024-03-09 10:10:34 - Warning: CPU usage not available for process 1379
+2024-03-09 10:10:34 - Process 1379 has exceeded memory threshold (80 KB): Memory usage is 11004 KB
+2024-03-09 10:10:34 - Warning: CPU usage not available for process 1389
+2024-03-09 10:10:34 - Process 1389 has exceeded memory threshold (80 KB): Memory usage is 10496 KB
+2024-03-09 10:10:34 - Warning: CPU usage not available for process 1390
+2024-03-09 10:10:34 - Process 1390 has exceeded memory threshold (80 KB): Memory usage is 5780 KB
+2024-03-09 10:10:34 - Warning: CPU usage not available for process 1396
+2024-03-09 10:10:34 - Process 1396 has exceeded memory threshold (80 KB): Memory usage is 6528 KB
+2024-03-09 10:10:34 - Warning: CPU usage not available for process 1397
+2024-03-09 10:10:34 - Process 1397 has exceeded memory threshold (80 KB): Memory usage is 6528 KB
+2024-03-09 10:10:34 - Warning: CPU usage not available for process 1398
+2024-03-09 10:10:34 - Process 1398 has exceeded memory threshold (80 KB): Memory usage is 29556 KB
+2024-03-09 10:10:34 - Warning: CPU usage not available for process 14
+2024-03-09 10:10:34 - Warning: Memory usage not available for process 14
+2024-03-09 10:10:34 - Warning: CPU usage not available for process 1400
+2024-03-09 10:10:34 - Process 1400 has exceeded memory threshold (80 KB): Memory usage is 8448 KB
+2024-03-09 10:10:34 - Warning: CPU usage not available for process 1415
+2024-03-09 10:10:34 - Process 1415 has exceeded memory threshold (80 KB): Memory usage is 7324 KB
+2024-03-09 10:10:34 - Warning: CPU usage not available for process 1436
+2024-03-09 10:10:34 - Process 1436 has exceeded memory threshold (80 KB): Memory usage is 6120 KB
+2024-03-09 10:10:34 - Warning: CPU usage not available for process 1437
+2024-03-09 10:10:34 - Process 1437 has exceeded memory threshold (80 KB): Memory usage is 7424 KB
+2024-03-09 10:10:34 - Warning: CPU usage not available for process 1442
+2024-03-09 10:10:34 - Process 1442 has exceeded memory threshold (80 KB): Memory usage is 6016 KB
+2024-03-09 10:10:34 - Warning: CPU usage not available for process 1448
+2024-03-09 10:10:34 - Process 1448 has exceeded memory threshold (80 KB): Memory usage is 1792 KB
+2024-03-09 10:10:34 - Warning: CPU usage not available for process 1470
+2024-03-09 10:10:34 - Warning: Memory usage not available for process 1470
+2024-03-09 10:10:34 - Warning: CPU usage not available for process 1472
+2024-03-09 10:10:34 - Process 1472 has exceeded memory threshold (80 KB): Memory usage is 6144 KB
+2024-03-09 10:10:34 - Warning: CPU usage not available for process 1475
+2024-03-09 10:10:34 - Process 1475 has exceeded memory threshold (80 KB): Memory usage is 15872 KB
+2024-03-09 10:10:34 - Warning: CPU usage not available for process 149
+2024-03-09 10:10:34 - Warning: Memory usage not available for process 149
+2024-03-09 10:10:34 - Warning: CPU usage not available for process 15
+2024-03-09 10:10:34 - Warning: Memory usage not available for process 15
+2024-03-09 10:10:34 - Warning: CPU usage not available for process 151
+2024-03-09 10:10:34 - Warning: Memory usage not available for process 151
+2024-03-09 10:10:34 - Warning: CPU usage not available for process 152
+2024-03-09 10:10:34 - Warning: Memory usage not available for process 152
+2024-03-09 10:10:34 - Warning: CPU usage not available for process 1521
+2024-03-09 10:10:34 - Process 1521 has exceeded memory threshold (80 KB): Memory usage is 5504 KB
+2024-03-09 10:10:34 - Warning: CPU usage not available for process 153
+2024-03-09 10:10:34 - Warning: Memory usage not available for process 153
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 1531
+2024-03-09 10:10:35 - Process 1531 has exceeded memory threshold (80 KB): Memory usage is 7680 KB
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 1539
+2024-03-09 10:10:35 - Process 1539 has exceeded memory threshold (80 KB): Memory usage is 6784 KB
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 1541
+2024-03-09 10:10:35 - Process 1541 has exceeded memory threshold (80 KB): Memory usage is 17280 KB
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 1561
+2024-03-09 10:10:35 - Process 1561 has exceeded memory threshold (80 KB): Memory usage is 7552 KB
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 1568
+2024-03-09 10:10:35 - Process 1568 has exceeded memory threshold (80 KB): Memory usage is 4352 KB
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 1571
+2024-03-09 10:10:35 - Process 1571 has exceeded memory threshold (80 KB): Memory usage is 329104 KB
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 16
+2024-03-09 10:10:35 - Warning: Memory usage not available for process 16
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 1646
+2024-03-09 10:10:35 - Process 1646 has exceeded memory threshold (80 KB): Memory usage is 21376 KB
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 1652
+2024-03-09 10:10:35 - Process 1652 has exceeded memory threshold (80 KB): Memory usage is 38912 KB
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 1659
+2024-03-09 10:10:35 - Process 1659 has exceeded memory threshold (80 KB): Memory usage is 85760 KB
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 1660
+2024-03-09 10:10:35 - Process 1660 has exceeded memory threshold (80 KB): Memory usage is 5888 KB
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 1661
+2024-03-09 10:10:35 - Process 1661 has exceeded memory threshold (80 KB): Memory usage is 6656 KB
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 1666
+2024-03-09 10:10:35 - Process 1666 has exceeded memory threshold (80 KB): Memory usage is 10368 KB
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 1675
+2024-03-09 10:10:35 - Process 1675 has exceeded memory threshold (80 KB): Memory usage is 14848 KB
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 1685
+2024-03-09 10:10:35 - Process 1685 has exceeded memory threshold (80 KB): Memory usage is 54276 KB
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 1689
+2024-03-09 10:10:35 - Process 1689 has exceeded memory threshold (80 KB): Memory usage is 6656 KB
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 1695
+2024-03-09 10:10:35 - Process 1695 has exceeded memory threshold (80 KB): Memory usage is 7040 KB
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 1699
+2024-03-09 10:10:35 - Process 1699 has exceeded memory threshold (80 KB): Memory usage is 7552 KB
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 17
+2024-03-09 10:10:35 - Warning: Memory usage not available for process 17
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 1703
+2024-03-09 10:10:35 - Process 1703 has exceeded memory threshold (80 KB): Memory usage is 8192 KB
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 1714
+2024-03-09 10:10:35 - Process 1714 has exceeded memory threshold (80 KB): Memory usage is 28928 KB
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 1739
+2024-03-09 10:10:35 - Process 1739 has exceeded memory threshold (80 KB): Memory usage is 8960 KB
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 1749
+2024-03-09 10:10:35 - Process 1749 has exceeded memory threshold (80 KB): Memory usage is 28460 KB
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 175
+2024-03-09 10:10:35 - Warning: Memory usage not available for process 175
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 1751
+2024-03-09 10:10:35 - Process 1751 has exceeded memory threshold (80 KB): Memory usage is 7424 KB
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 176
+2024-03-09 10:10:35 - Warning: Memory usage not available for process 176
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 177
+2024-03-09 10:10:35 - Warning: Memory usage not available for process 177
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 1771
+2024-03-09 10:10:35 - Process 1771 has exceeded memory threshold (80 KB): Memory usage is 1664 KB
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 1772
+2024-03-09 10:10:35 - Process 1772 has exceeded memory threshold (80 KB): Memory usage is 6912 KB
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 1774
+2024-03-09 10:10:35 - Process 1774 has exceeded memory threshold (80 KB): Memory usage is 12144 KB
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 1775
+2024-03-09 10:10:35 - Process 1775 has exceeded memory threshold (80 KB): Memory usage is 26500 KB
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 1777
+2024-03-09 10:10:35 - Process 1777 has exceeded memory threshold (80 KB): Memory usage is 16384 KB
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 178
+2024-03-09 10:10:35 - Warning: Memory usage not available for process 178
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 1780
+2024-03-09 10:10:35 - Process 1780 has exceeded memory threshold (80 KB): Memory usage is 7808 KB
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 1783
+2024-03-09 10:10:35 - Process 1783 has exceeded memory threshold (80 KB): Memory usage is 22148 KB
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 1784
+2024-03-09 10:10:35 - Process 1784 has exceeded memory threshold (80 KB): Memory usage is 26472 KB
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 1785
+2024-03-09 10:10:35 - Process 1785 has exceeded memory threshold (80 KB): Memory usage is 25476 KB
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 1788
+2024-03-09 10:10:35 - Process 1788 has exceeded memory threshold (80 KB): Memory usage is 11648 KB
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 1791
+2024-03-09 10:10:35 - Process 1791 has exceeded memory threshold (80 KB): Memory usage is 6912 KB
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 1792
+2024-03-09 10:10:35 - Process 1792 has exceeded memory threshold (80 KB): Memory usage is 6400 KB
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 1795
+2024-03-09 10:10:35 - Process 1795 has exceeded memory threshold (80 KB): Memory usage is 10752 KB
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 1796
+2024-03-09 10:10:35 - Process 1796 has exceeded memory threshold (80 KB): Memory usage is 8320 KB
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 1797
+2024-03-09 10:10:35 - Process 1797 has exceeded memory threshold (80 KB): Memory usage is 9728 KB
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 1798
+2024-03-09 10:10:35 - Process 1798 has exceeded memory threshold (80 KB): Memory usage is 22276 KB
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 18
+2024-03-09 10:10:35 - Warning: Memory usage not available for process 18
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 1861
+2024-03-09 10:10:35 - Process 1861 has exceeded memory threshold (80 KB): Memory usage is 66560 KB
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 1873
+2024-03-09 10:10:35 - Process 1873 has exceeded memory threshold (80 KB): Memory usage is 7552 KB
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 1897
+2024-03-09 10:10:35 - Process 1897 has exceeded memory threshold (80 KB): Memory usage is 7552 KB
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 1899
+2024-03-09 10:10:35 - Process 1899 has exceeded memory threshold (80 KB): Memory usage is 28764 KB
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 19
+2024-03-09 10:10:35 - Warning: Memory usage not available for process 19
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 1917
+2024-03-09 10:10:35 - Process 1917 has exceeded memory threshold (80 KB): Memory usage is 7296 KB
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 1932
+2024-03-09 10:10:35 - Process 1932 has exceeded memory threshold (80 KB): Memory usage is 120500 KB
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 194
+2024-03-09 10:10:35 - Warning: Memory usage not available for process 194
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 1958
+2024-03-09 10:10:35 - Process 1958 has exceeded memory threshold (80 KB): Memory usage is 15104 KB
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 1972
+2024-03-09 10:10:35 - Process 1972 has exceeded memory threshold (80 KB): Memory usage is 7424 KB
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 198
+2024-03-09 10:10:35 - Warning: Memory usage not available for process 198
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 1982
+2024-03-09 10:10:35 - Process 1982 has exceeded memory threshold (80 KB): Memory usage is 13952 KB
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 2
+2024-03-09 10:10:35 - Warning: Memory usage not available for process 2
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 20
+2024-03-09 10:10:35 - Warning: Memory usage not available for process 20
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 2002
+2024-03-09 10:10:35 - Process 2002 has exceeded memory threshold (80 KB): Memory usage is 36356 KB
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 2018
+2024-03-09 10:10:35 - Process 2018 has exceeded memory threshold (80 KB): Memory usage is 29436 KB
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 2082
+2024-03-09 10:10:35 - Process 2082 has exceeded memory threshold (80 KB): Memory usage is 27916 KB
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 21
+2024-03-09 10:10:35 - Warning: Memory usage not available for process 21
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 2123
+2024-03-09 10:10:35 - Process 2123 has exceeded memory threshold (80 KB): Memory usage is 14208 KB
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 2126
+2024-03-09 10:10:35 - Process 2126 has exceeded memory threshold (80 KB): Memory usage is 25476 KB
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 21640
+2024-03-09 10:10:35 - Process 21640 has exceeded memory threshold (80 KB): Memory usage is 54912 KB
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 22
+2024-03-09 10:10:35 - Warning: Memory usage not available for process 22
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 220
+2024-03-09 10:10:35 - Warning: Memory usage not available for process 220
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 2203
+2024-03-09 10:10:35 - Process 2203 has exceeded memory threshold (80 KB): Memory usage is 21444 KB
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 221
+2024-03-09 10:10:35 - Warning: Memory usage not available for process 221
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 23
+2024-03-09 10:10:35 - Warning: Memory usage not available for process 23
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 2302
+2024-03-09 10:10:35 - Process 2302 has exceeded memory threshold (80 KB): Memory usage is 32308 KB
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 23420
+2024-03-09 10:10:35 - Warning: Memory usage not available for process 23420
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 23544
+2024-03-09 10:10:35 - Warning: Memory usage not available for process 23544
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 23552
+2024-03-09 10:10:35 - Warning: Memory usage not available for process 23552
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 23769
+2024-03-09 10:10:35 - Warning: Memory usage not available for process 23769
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 25
+2024-03-09 10:10:35 - Warning: Memory usage not available for process 25
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 25284
+2024-03-09 10:10:35 - Warning: Memory usage not available for process 25284
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 25601
+2024-03-09 10:10:35 - Warning: Memory usage not available for process 25601
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 25687
+2024-03-09 10:10:35 - Warning: Memory usage not available for process 25687
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 26
+2024-03-09 10:10:35 - Warning: Memory usage not available for process 26
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 260
+2024-03-09 10:10:35 - Process 260 has exceeded memory threshold (80 KB): Memory usage is 34816 KB
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 27
+2024-03-09 10:10:35 - Warning: Memory usage not available for process 27
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 28
+2024-03-09 10:10:35 - Warning: Memory usage not available for process 28
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 29
+2024-03-09 10:10:35 - Warning: Memory usage not available for process 29
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 3
+2024-03-09 10:10:35 - Warning: Memory usage not available for process 3
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 31
+2024-03-09 10:10:35 - Warning: Memory usage not available for process 31
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 312
+2024-03-09 10:10:35 - Process 312 has exceeded memory threshold (80 KB): Memory usage is 7168 KB
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 3129
+2024-03-09 10:10:35 - Process 3129 has exceeded memory threshold (80 KB): Memory usage is 32128 KB
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 32
+2024-03-09 10:10:35 - Warning: Memory usage not available for process 32
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 32121
+2024-03-09 10:10:35 - Warning: Memory usage not available for process 32121
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 33
+2024-03-09 10:10:35 - Warning: Memory usage not available for process 33
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 3394
+2024-03-09 10:10:35 - Warning: Memory usage not available for process 3394
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 34
+2024-03-09 10:10:35 - Warning: Memory usage not available for process 34
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 35
+2024-03-09 10:10:35 - Warning: Memory usage not available for process 35
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 3507
+2024-03-09 10:10:35 - Warning: Memory usage not available for process 3507
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 35138
+2024-03-09 10:10:35 - Process 35138 has exceeded memory threshold (80 KB): Memory usage is 77276 KB
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 35148
+2024-03-09 10:10:35 - Process 35148 has exceeded memory threshold (80 KB): Memory usage is 5504 KB
+2024-03-09 10:10:35 - Warning: CPU usage not available for process 355
+2024-03-09 10:10:36 - Warning: Memory usage not available for process 355
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 35610
+2024-03-09 10:10:36 - Warning: Memory usage not available for process 35610
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 35677
+2024-03-09 10:10:36 - Warning: Memory usage not available for process 35677
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 35678
+2024-03-09 10:10:36 - Warning: Memory usage not available for process 35678
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 35749
+2024-03-09 10:10:36 - Warning: Memory usage not available for process 35749
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 35750
+2024-03-09 10:10:36 - Warning: Memory usage not available for process 35750
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 35778
+2024-03-09 10:10:36 - Process 35778 has exceeded memory threshold (80 KB): Memory usage is 303828 KB
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 35827
+2024-03-09 10:10:36 - Process 35827 has exceeded memory threshold (80 KB): Memory usage is 72832 KB
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 35844
+2024-03-09 10:10:36 - Warning: Memory usage not available for process 35844
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 35846
+2024-03-09 10:10:36 - Warning: Memory usage not available for process 35846
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 35851
+2024-03-09 10:10:36 - Warning: Memory usage not available for process 35851
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 35907
+2024-03-09 10:10:36 - Warning: Memory usage not available for process 35907
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 3621
+2024-03-09 10:10:36 - Process 3621 has exceeded memory threshold (80 KB): Memory usage is 68912 KB
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 37
+2024-03-09 10:10:36 - Warning: Memory usage not available for process 37
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 373
+2024-03-09 10:10:36 - Warning: Memory usage not available for process 373
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 374
+2024-03-09 10:10:36 - Warning: Memory usage not available for process 374
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 375
+2024-03-09 10:10:36 - Warning: Memory usage not available for process 375
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 376
+2024-03-09 10:10:36 - Warning: Memory usage not available for process 376
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 377
+2024-03-09 10:10:36 - Warning: Memory usage not available for process 377
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 378
+2024-03-09 10:10:36 - Warning: Memory usage not available for process 378
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 3782
+2024-03-09 10:10:36 - Process 3782 has exceeded memory threshold (80 KB): Memory usage is 172340 KB
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 3784
+2024-03-09 10:10:36 - Process 3784 has exceeded memory threshold (80 KB): Memory usage is 48000 KB
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 3785
+2024-03-09 10:10:36 - Process 3785 has exceeded memory threshold (80 KB): Memory usage is 47616 KB
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 379
+2024-03-09 10:10:36 - Warning: Memory usage not available for process 379
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 3798
+2024-03-09 10:10:36 - Process 3798 has exceeded memory threshold (80 KB): Memory usage is 3456 KB
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 38
+2024-03-09 10:10:36 - Warning: Memory usage not available for process 38
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 380
+2024-03-09 10:10:36 - Warning: Memory usage not available for process 380
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 3801
+2024-03-09 10:10:36 - Process 3801 has exceeded memory threshold (80 KB): Memory usage is 103312 KB
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 381
+2024-03-09 10:10:36 - Warning: Memory usage not available for process 381
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 382
+2024-03-09 10:10:36 - Warning: Memory usage not available for process 382
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 3821
+2024-03-09 10:10:36 - Process 3821 has exceeded memory threshold (80 KB): Memory usage is 81144 KB
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 3853
+2024-03-09 10:10:36 - Process 3853 has exceeded memory threshold (80 KB): Memory usage is 25168 KB
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 3882
+2024-03-09 10:10:36 - Process 3882 has exceeded memory threshold (80 KB): Memory usage is 66304 KB
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 39
+2024-03-09 10:10:36 - Warning: Memory usage not available for process 39
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 3913
+2024-03-09 10:10:36 - Process 3913 has exceeded memory threshold (80 KB): Memory usage is 282524 KB
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 3944
+2024-03-09 10:10:36 - Process 3944 has exceeded memory threshold (80 KB): Memory usage is 118596 KB
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 3973
+2024-03-09 10:10:36 - Process 3973 has exceeded memory threshold (80 KB): Memory usage is 97336 KB
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 3974
+2024-03-09 10:10:36 - Process 3974 has exceeded memory threshold (80 KB): Memory usage is 139996 KB
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 3993
+2024-03-09 10:10:36 - Process 3993 has exceeded memory threshold (80 KB): Memory usage is 99292 KB
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 3994
+2024-03-09 10:10:36 - Process 3994 has exceeded memory threshold (80 KB): Memory usage is 87376 KB
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 4
+2024-03-09 10:10:36 - Warning: Memory usage not available for process 4
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 40
+2024-03-09 10:10:36 - Warning: Memory usage not available for process 40
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 4034
+2024-03-09 10:10:36 - Process 4034 has exceeded memory threshold (80 KB): Memory usage is 5504 KB
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 4079
+2024-03-09 10:10:36 - Process 4079 has exceeded memory threshold (80 KB): Memory usage is 94536 KB
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 41
+2024-03-09 10:10:36 - Warning: Memory usage not available for process 41
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 43
+2024-03-09 10:10:36 - Warning: Memory usage not available for process 43
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 44
+2024-03-09 10:10:36 - Warning: Memory usage not available for process 44
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 45
+2024-03-09 10:10:36 - Warning: Memory usage not available for process 45
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 46
+2024-03-09 10:10:36 - Warning: Memory usage not available for process 46
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 466
+2024-03-09 10:10:36 - Warning: Memory usage not available for process 466
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 47
+2024-03-09 10:10:36 - Warning: Memory usage not available for process 47
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 479
+2024-03-09 10:10:36 - Warning: Memory usage not available for process 479
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 480
+2024-03-09 10:10:36 - Warning: Memory usage not available for process 480
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 481
+2024-03-09 10:10:36 - Warning: Memory usage not available for process 481
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 482
+2024-03-09 10:10:36 - Warning: Memory usage not available for process 482
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 483
+2024-03-09 10:10:36 - Process 483 has exceeded memory threshold (80 KB): Memory usage is 6784 KB
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 484
+2024-03-09 10:10:36 - Process 484 has exceeded memory threshold (80 KB): Memory usage is 13632 KB
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 485
+2024-03-09 10:10:36 - Process 485 has exceeded memory threshold (80 KB): Memory usage is 7424 KB
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 49
+2024-03-09 10:10:36 - Warning: Memory usage not available for process 49
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 5
+2024-03-09 10:10:36 - Warning: Memory usage not available for process 5
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 50
+2024-03-09 10:10:36 - Warning: Memory usage not available for process 50
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 50415
+2024-03-09 10:10:36 - Process 50415 has exceeded memory threshold (80 KB): Memory usage is 72176 KB
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 51
+2024-03-09 10:10:36 - Warning: Memory usage not available for process 51
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 52
+2024-03-09 10:10:36 - Warning: Memory usage not available for process 52
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 53
+2024-03-09 10:10:36 - Warning: Memory usage not available for process 53
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 54241
+2024-03-09 10:10:36 - Warning: Memory usage not available for process 54241
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 55
+2024-03-09 10:10:36 - Warning: Memory usage not available for process 55
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 559
+2024-03-09 10:10:36 - Process 559 has exceeded memory threshold (80 KB): Memory usage is 7504 KB
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 56
+2024-03-09 10:10:36 - Warning: Memory usage not available for process 56
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 562
+2024-03-09 10:10:36 - Process 562 has exceeded memory threshold (80 KB): Memory usage is 1792 KB
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 567
+2024-03-09 10:10:36 - Process 567 has exceeded memory threshold (80 KB): Memory usage is 3584 KB
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 57
+2024-03-09 10:10:36 - Warning: Memory usage not available for process 57
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 570
+2024-03-09 10:10:36 - Process 570 has exceeded memory threshold (80 KB): Memory usage is 5248 KB
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 572
+2024-03-09 10:10:36 - Process 572 has exceeded memory threshold (80 KB): Memory usage is 2944 KB
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 57300
+2024-03-09 10:10:36 - Warning: Memory usage not available for process 57300
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 57359
+2024-03-09 10:10:36 - Process 57359 has exceeded memory threshold (80 KB): Memory usage is 72192 KB
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 57392
+2024-03-09 10:10:36 - Warning: Memory usage not available for process 57392
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 57397
+2024-03-09 10:10:36 - Warning: Memory usage not available for process 57397
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 574
+2024-03-09 10:10:36 - Process 574 has exceeded memory threshold (80 KB): Memory usage is 6272 KB
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 57400
+2024-03-09 10:10:36 - Warning: Memory usage not available for process 57400
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 57409
+2024-03-09 10:10:36 - Warning: Memory usage not available for process 57409
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 57410
+2024-03-09 10:10:36 - Warning: Memory usage not available for process 57410
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 57421
+2024-03-09 10:10:36 - Warning: Memory usage not available for process 57421
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 57422
+2024-03-09 10:10:36 - Warning: Memory usage not available for process 57422
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 575
+2024-03-09 10:10:36 - Process 575 has exceeded memory threshold (80 KB): Memory usage is 19164 KB
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 57545
+2024-03-09 10:10:36 - Warning: Memory usage not available for process 57545
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 57587
+2024-03-09 10:10:36 - Process 57587 has exceeded memory threshold (80 KB): Memory usage is 4096 KB
+2024-03-09 10:10:36 - Error: Process 57670 not found.
+2024-03-09 10:10:36 - Error: Process 57670 not found.
+2024-03-09 10:10:36 - Error: Process 57671 not found.
+2024-03-09 10:10:36 - Error: Process 57671 not found.
+2024-03-09 10:10:36 - Error: Process 57675 not found.
+2024-03-09 10:10:36 - Error: Process 57675 not found.
+2024-03-09 10:10:36 - Error: Process 57676 not found.
+2024-03-09 10:10:36 - Error: Process 57676 not found.
+2024-03-09 10:10:36 - Error: Process 57677 not found.
+2024-03-09 10:10:36 - Error: Process 57677 not found.
+2024-03-09 10:10:36 - Error: Process 57678 not found.
+2024-03-09 10:10:36 - Error: Process 57678 not found.
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 58
+2024-03-09 10:10:36 - Warning: Memory usage not available for process 58
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 583
+2024-03-09 10:10:36 - Process 583 has exceeded memory threshold (80 KB): Memory usage is 7296 KB
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 589
+2024-03-09 10:10:36 - Process 589 has exceeded memory threshold (80 KB): Memory usage is 4096 KB
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 59
+2024-03-09 10:10:36 - Warning: Memory usage not available for process 59
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 591
+2024-03-09 10:10:36 - Process 591 has exceeded memory threshold (80 KB): Memory usage is 20608 KB
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 595
+2024-03-09 10:10:36 - Process 595 has exceeded memory threshold (80 KB): Memory usage is 10916 KB
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 596
+2024-03-09 10:10:36 - Warning: Memory usage not available for process 596
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 597
+2024-03-09 10:10:36 - Process 597 has exceeded memory threshold (80 KB): Memory usage is 7668 KB
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 6
+2024-03-09 10:10:36 - Warning: Memory usage not available for process 6
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 600
+2024-03-09 10:10:36 - Process 600 has exceeded memory threshold (80 KB): Memory usage is 5632 KB
+2024-03-09 10:10:36 - Warning: CPU usage not available for process 61
+2024-03-09 10:10:36 - Warning: Memory usage not available for process 61
+2024-03-09 10:10:37 - Warning: CPU usage not available for process 610
+2024-03-09 10:10:37 - Process 610 has exceeded memory threshold (80 KB): Memory usage is 33448 KB
+2024-03-09 10:10:37 - Warning: CPU usage not available for process 614
+2024-03-09 10:10:37 - Process 614 has exceeded memory threshold (80 KB): Memory usage is 6656 KB
+2024-03-09 10:10:37 - Warning: CPU usage not available for process 62
+2024-03-09 10:10:37 - Warning: Memory usage not available for process 62
+2024-03-09 10:10:37 - Warning: CPU usage not available for process 623
+2024-03-09 10:10:37 - Process 623 has exceeded memory threshold (80 KB): Memory usage is 7724 KB
+2024-03-09 10:10:37 - Warning: CPU usage not available for process 624
+2024-03-09 10:10:37 - Process 624 has exceeded memory threshold (80 KB): Memory usage is 10880 KB
+2024-03-09 10:10:37 - Warning: CPU usage not available for process 625
+2024-03-09 10:10:37 - Process 625 has exceeded memory threshold (80 KB): Memory usage is 12996 KB
+2024-03-09 10:10:37 - Warning: CPU usage not available for process 628
+2024-03-09 10:10:37 - Process 628 has exceeded memory threshold (80 KB): Memory usage is 11392 KB
+2024-03-09 10:10:37 - Warning: CPU usage not available for process 63
+2024-03-09 10:10:37 - Warning: Memory usage not available for process 63
+2024-03-09 10:10:37 - Warning: CPU usage not available for process 64
+2024-03-09 10:10:37 - Warning: Memory usage not available for process 64
+2024-03-09 10:10:37 - Warning: CPU usage not available for process 66
+2024-03-09 10:10:37 - Warning: Memory usage not available for process 66
+2024-03-09 10:10:37 - Warning: CPU usage not available for process 661
+2024-03-09 10:10:37 - Process 661 has exceeded memory threshold (80 KB): Memory usage is 1280 KB
+2024-03-09 10:10:37 - Warning: CPU usage not available for process 67
+2024-03-09 10:10:37 - Warning: Memory usage not available for process 67
+2024-03-09 10:10:37 - Warning: CPU usage not available for process 676
+2024-03-09 10:10:37 - Process 676 has exceeded memory threshold (80 KB): Memory usage is 12204 KB
+2024-03-09 10:10:37 - Warning: CPU usage not available for process 69
+2024-03-09 10:10:37 - Warning: Memory usage not available for process 69
+2024-03-09 10:10:37 - Warning: CPU usage not available for process 70
+2024-03-09 10:10:37 - Warning: Memory usage not available for process 70
+2024-03-09 10:10:37 - Warning: CPU usage not available for process 705
+2024-03-09 10:10:37 - Process 705 has exceeded memory threshold (80 KB): Memory usage is 13440 KB
+2024-03-09 10:10:37 - Warning: CPU usage not available for process 71
+2024-03-09 10:10:37 - Warning: Memory usage not available for process 71
+2024-03-09 10:10:37 - Warning: CPU usage not available for process 710
+2024-03-09 10:10:37 - Process 710 has exceeded memory threshold (80 KB): Memory usage is 18432 KB
+2024-03-09 10:10:37 - Warning: CPU usage not available for process 72
+2024-03-09 10:10:37 - Warning: Memory usage not available for process 72
+2024-03-09 10:10:37 - Warning: CPU usage not available for process 73
+2024-03-09 10:10:37 - Warning: Memory usage not available for process 73
+2024-03-09 10:10:37 - Warning: CPU usage not available for process 74
+2024-03-09 10:10:37 - Warning: Memory usage not available for process 74
+2024-03-09 10:10:37 - Warning: CPU usage not available for process 75
+2024-03-09 10:10:37 - Warning: Memory usage not available for process 75
+2024-03-09 10:10:37 - Warning: CPU usage not available for process 762
+2024-03-09 10:10:37 - Process 762 has exceeded memory threshold (80 KB): Memory usage is 8960 KB
+2024-03-09 10:10:37 - Warning: CPU usage not available for process 77
+2024-03-09 10:10:37 - Warning: Memory usage not available for process 77
+2024-03-09 10:10:37 - Warning: CPU usage not available for process 772
+2024-03-09 10:10:37 - Process 772 has exceeded memory threshold (80 KB): Memory usage is 6528 KB
+2024-03-09 10:10:37 - Warning: CPU usage not available for process 79
+2024-03-09 10:10:37 - Warning: Memory usage not available for process 79
+2024-03-09 10:10:37 - Warning: CPU usage not available for process 8
+2024-03-09 10:10:37 - Warning: Memory usage not available for process 8
+2024-03-09 10:10:37 - Warning: CPU usage not available for process 80
+2024-03-09 10:10:37 - Warning: Memory usage not available for process 80
+2024-03-09 10:10:37 - Warning: CPU usage not available for process 81
+2024-03-09 10:10:37 - Warning: Memory usage not available for process 81
+2024-03-09 10:10:37 - Warning: CPU usage not available for process 812
+2024-03-09 10:10:37 - Process 812 has exceeded memory threshold (80 KB): Memory usage is 23296 KB
+2024-03-09 10:10:37 - Warning: CPU usage not available for process 82
+2024-03-09 10:10:37 - Warning: Memory usage not available for process 82
+2024-03-09 10:10:37 - Warning: CPU usage not available for process 823
+2024-03-09 10:10:37 - Process 823 has exceeded memory threshold (80 KB): Memory usage is 11596 KB
+2024-03-09 10:10:37 - Warning: CPU usage not available for process 83
+2024-03-09 10:10:37 - Warning: Memory usage not available for process 83
+2024-03-09 10:10:37 - Warning: CPU usage not available for process 85
+2024-03-09 10:10:37 - Warning: Memory usage not available for process 85
+2024-03-09 10:10:37 - Warning: CPU usage not available for process 866
+2024-03-09 10:10:37 - Process 866 has exceeded memory threshold (80 KB): Memory usage is 3200 KB
+2024-03-09 10:10:37 - Warning: CPU usage not available for process 88
+2024-03-09 10:10:37 - Warning: Memory usage not available for process 88
+2024-03-09 10:10:37 - Warning: CPU usage not available for process 89
+2024-03-09 10:10:37 - Warning: Memory usage not available for process 89
+2024-03-09 10:10:37 - Warning: CPU usage not available for process 90
+2024-03-09 10:10:37 - Warning: Memory usage not available for process 90
+2024-03-09 10:10:37 - Warning: CPU usage not available for process 900
+2024-03-09 10:10:37 - Process 900 has exceeded memory threshold (80 KB): Memory usage is 9216 KB
+2024-03-09 10:10:37 - Warning: CPU usage not available for process 91
+2024-03-09 10:10:37 - Warning: Memory usage not available for process 91
+2024-03-09 10:10:37 - Warning: CPU usage not available for process 9104
+2024-03-09 10:10:37 - Process 9104 has exceeded memory threshold (80 KB): Memory usage is 475256 KB
+2024-03-09 10:10:37 - Warning: CPU usage not available for process 9302
+2024-03-09 10:10:37 - Process 9302 has exceeded memory threshold (80 KB): Memory usage is 48896 KB
+2024-03-09 10:10:37 - Warning: CPU usage not available for process 9327
+2024-03-09 10:10:37 - Process 9327 has exceeded memory threshold (80 KB): Memory usage is 116504 KB
+2024-03-09 10:10:37 - Warning: CPU usage not available for process 9366
+2024-03-09 10:10:37 - Process 9366 has exceeded memory threshold (80 KB): Memory usage is 19420 KB
+2024-03-09 10:10:37 - Warning: CPU usage not available for process 9448
+2024-03-09 10:10:37 - Process 9448 has exceeded memory threshold (80 KB): Memory usage is 300812 KB
+2024-03-09 10:10:37 - Warning: CPU usage not available for process 95
+2024-03-09 10:10:37 - Warning: Memory usage not available for process 95
+2024-03-09 10:10:37 - Warning: CPU usage not available for process 9627
+2024-03-09 10:10:37 - Process 9627 has exceeded memory threshold (80 KB): Memory usage is 59136 KB
+2024-03-09 10:10:37 - Warning: CPU usage not available for process 9638
+2024-03-09 10:10:37 - Process 9638 has exceeded memory threshold (80 KB): Memory usage is 200788 KB
+2024-03-09 10:10:37 - Warning: CPU usage not available for process 97
+2024-03-09 10:10:37 - Warning: Memory usage not available for process 97
+2024-03-09 10:10:37 - Warning: CPU usage not available for process 9730
+2024-03-09 10:10:37 - Process 9730 has exceeded memory threshold (80 KB): Memory usage is 488064 KB
+2024-03-09 10:10:37 - Warning: CPU usage not available for process 99
+2024-03-09 10:10:37 - Warning: Memory usage not available for process 99
+2024-03-09 10:10:42 - Warning: CPU usage not available for process 1
+2024-03-09 10:10:42 - Process 1 has exceeded memory threshold (80 KB): Memory usage is 12764 KB
+2024-03-09 10:10:42 - Warning: CPU usage not available for process 100
+2024-03-09 10:10:42 - Warning: Memory usage not available for process 100
+2024-03-09 10:10:42 - Warning: CPU usage not available for process 101
+2024-03-09 10:10:42 - Warning: Memory usage not available for process 101
+2024-03-09 10:10:42 - Warning: CPU usage not available for process 108
+2024-03-09 10:10:42 - Warning: Memory usage not available for process 108
+2024-03-09 10:10:42 - Warning: CPU usage not available for process 1082
+2024-03-09 10:10:42 - Process 1082 has exceeded memory threshold (80 KB): Memory usage is 39388 KB
+2024-03-09 10:10:42 - Warning: CPU usage not available for process 11
+2024-03-09 10:10:42 - Warning: Memory usage not available for process 11
+2024-03-09 10:10:42 - Warning: CPU usage not available for process 114
+2024-03-09 10:10:42 - Warning: Memory usage not available for process 114
+2024-03-09 10:10:42 - Warning: CPU usage not available for process 12
+2024-03-09 10:10:42 - Warning: Memory usage not available for process 12
+2024-03-09 10:10:42 - Warning: CPU usage not available for process 1243
+2024-03-09 10:10:42 - Process 1243 has exceeded memory threshold (80 KB): Memory usage is 13008 KB
+2024-03-09 10:10:42 - Warning: CPU usage not available for process 13
+2024-03-09 10:10:42 - Warning: Memory usage not available for process 13
+2024-03-09 10:10:42 - Warning: CPU usage not available for process 1333
+2024-03-09 10:10:42 - Process 1333 has exceeded memory threshold (80 KB): Memory usage is 11520 KB
+2024-03-09 10:10:42 - Warning: CPU usage not available for process 134
+2024-03-09 10:10:42 - Warning: Memory usage not available for process 134
+2024-03-09 10:10:42 - Warning: CPU usage not available for process 1349
+2024-03-09 10:10:42 - Process 1349 has exceeded memory threshold (80 KB): Memory usage is 2192 KB
+2024-03-09 10:10:42 - Warning: CPU usage not available for process 1351
+2024-03-09 10:10:42 - Process 1351 has exceeded memory threshold (80 KB): Memory usage is 2056 KB
+2024-03-09 10:10:42 - Warning: CPU usage not available for process 137
+2024-03-09 10:10:42 - Warning: Memory usage not available for process 137
+2024-03-09 10:10:42 - Warning: CPU usage not available for process 1379
+2024-03-09 10:10:42 - Process 1379 has exceeded memory threshold (80 KB): Memory usage is 11004 KB
+2024-03-09 10:10:42 - Warning: CPU usage not available for process 1389
+2024-03-09 10:10:42 - Process 1389 has exceeded memory threshold (80 KB): Memory usage is 10496 KB
+2024-03-09 10:10:42 - Warning: CPU usage not available for process 1390
+2024-03-09 10:10:42 - Process 1390 has exceeded memory threshold (80 KB): Memory usage is 5780 KB
+2024-03-09 10:10:42 - Warning: CPU usage not available for process 1396
+2024-03-09 10:10:42 - Process 1396 has exceeded memory threshold (80 KB): Memory usage is 6528 KB
+2024-03-09 10:10:42 - Warning: CPU usage not available for process 1397
+2024-03-09 10:10:42 - Process 1397 has exceeded memory threshold (80 KB): Memory usage is 6528 KB
+2024-03-09 10:10:42 - Warning: CPU usage not available for process 1398
+2024-03-09 10:10:42 - Process 1398 has exceeded memory threshold (80 KB): Memory usage is 29556 KB
+2024-03-09 10:10:42 - Warning: CPU usage not available for process 14
+2024-03-09 10:10:42 - Warning: Memory usage not available for process 14
+2024-03-09 10:10:42 - Warning: CPU usage not available for process 1400
+2024-03-09 10:10:42 - Process 1400 has exceeded memory threshold (80 KB): Memory usage is 8448 KB
+2024-03-09 10:10:42 - Warning: CPU usage not available for process 1415
+2024-03-09 10:10:42 - Process 1415 has exceeded memory threshold (80 KB): Memory usage is 7324 KB
+2024-03-09 10:10:42 - Warning: CPU usage not available for process 1436
+2024-03-09 10:10:42 - Process 1436 has exceeded memory threshold (80 KB): Memory usage is 6120 KB
+2024-03-09 10:10:42 - Warning: CPU usage not available for process 1437
+2024-03-09 10:10:42 - Process 1437 has exceeded memory threshold (80 KB): Memory usage is 7424 KB
+2024-03-09 10:10:42 - Warning: CPU usage not available for process 1442
+2024-03-09 10:10:42 - Process 1442 has exceeded memory threshold (80 KB): Memory usage is 6016 KB
+2024-03-09 10:10:42 - Warning: CPU usage not available for process 1448
+2024-03-09 10:10:42 - Process 1448 has exceeded memory threshold (80 KB): Memory usage is 1792 KB
+2024-03-09 10:10:42 - Warning: CPU usage not available for process 1470
+2024-03-09 10:10:42 - Warning: Memory usage not available for process 1470
+2024-03-09 10:10:42 - Warning: CPU usage not available for process 1472
+2024-03-09 10:10:42 - Process 1472 has exceeded memory threshold (80 KB): Memory usage is 6144 KB
+2024-03-09 10:10:42 - Warning: CPU usage not available for process 1475
+2024-03-09 10:10:42 - Process 1475 has exceeded memory threshold (80 KB): Memory usage is 15872 KB
+2024-03-09 10:10:42 - Warning: CPU usage not available for process 149
+2024-03-09 10:10:42 - Warning: Memory usage not available for process 149
+2024-03-09 10:10:42 - Warning: CPU usage not available for process 15
+2024-03-09 10:10:42 - Warning: Memory usage not available for process 15
+2024-03-09 10:10:42 - Warning: CPU usage not available for process 151
+2024-03-09 10:10:42 - Warning: Memory usage not available for process 151
+2024-03-09 10:10:42 - Warning: CPU usage not available for process 152
+2024-03-09 10:10:42 - Warning: Memory usage not available for process 152
+2024-03-09 10:10:42 - Warning: CPU usage not available for process 1521
+2024-03-09 10:10:42 - Process 1521 has exceeded memory threshold (80 KB): Memory usage is 5504 KB
+2024-03-09 10:10:42 - Warning: CPU usage not available for process 153
+2024-03-09 10:10:42 - Warning: Memory usage not available for process 153
+2024-03-09 10:10:42 - Warning: CPU usage not available for process 1531
+2024-03-09 10:10:42 - Process 1531 has exceeded memory threshold (80 KB): Memory usage is 7680 KB
+2024-03-09 10:10:42 - Warning: CPU usage not available for process 1539
+2024-03-09 10:10:42 - Process 1539 has exceeded memory threshold (80 KB): Memory usage is 6784 KB
+2024-03-09 10:10:42 - Warning: CPU usage not available for process 1541
+2024-03-09 10:10:42 - Process 1541 has exceeded memory threshold (80 KB): Memory usage is 17280 KB
+2024-03-09 10:10:42 - Warning: CPU usage not available for process 1561
+2024-03-09 10:10:42 - Process 1561 has exceeded memory threshold (80 KB): Memory usage is 7552 KB
+2024-03-09 10:10:42 - Warning: CPU usage not available for process 1568
+2024-03-09 10:10:42 - Process 1568 has exceeded memory threshold (80 KB): Memory usage is 4352 KB
+2024-03-09 10:10:42 - Warning: CPU usage not available for process 1571
+2024-03-09 10:10:42 - Process 1571 has exceeded memory threshold (80 KB): Memory usage is 329104 KB
+2024-03-09 10:10:42 - Warning: CPU usage not available for process 16
+2024-03-09 10:10:42 - Warning: Memory usage not available for process 16
+2024-03-09 10:10:42 - Warning: CPU usage not available for process 1646
+2024-03-09 10:10:42 - Process 1646 has exceeded memory threshold (80 KB): Memory usage is 21376 KB
+2024-03-09 10:10:42 - Warning: CPU usage not available for process 1652
+2024-03-09 10:10:42 - Process 1652 has exceeded memory threshold (80 KB): Memory usage is 38912 KB
+2024-03-09 10:10:42 - Warning: CPU usage not available for process 1659
+2024-03-09 10:10:42 - Process 1659 has exceeded memory threshold (80 KB): Memory usage is 85760 KB
+2024-03-09 10:10:42 - Warning: CPU usage not available for process 1660
+2024-03-09 10:10:42 - Process 1660 has exceeded memory threshold (80 KB): Memory usage is 5888 KB
+2024-03-09 10:10:42 - Warning: CPU usage not available for process 1661
+2024-03-09 10:10:43 - Process 1661 has exceeded memory threshold (80 KB): Memory usage is 6656 KB
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 1666
+2024-03-09 10:10:43 - Process 1666 has exceeded memory threshold (80 KB): Memory usage is 10368 KB
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 1675
+2024-03-09 10:10:43 - Process 1675 has exceeded memory threshold (80 KB): Memory usage is 14848 KB
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 1685
+2024-03-09 10:10:43 - Process 1685 has exceeded memory threshold (80 KB): Memory usage is 54276 KB
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 1689
+2024-03-09 10:10:43 - Process 1689 has exceeded memory threshold (80 KB): Memory usage is 6656 KB
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 1695
+2024-03-09 10:10:43 - Process 1695 has exceeded memory threshold (80 KB): Memory usage is 7040 KB
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 1699
+2024-03-09 10:10:43 - Process 1699 has exceeded memory threshold (80 KB): Memory usage is 7552 KB
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 17
+2024-03-09 10:10:43 - Warning: Memory usage not available for process 17
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 1703
+2024-03-09 10:10:43 - Process 1703 has exceeded memory threshold (80 KB): Memory usage is 8192 KB
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 1714
+2024-03-09 10:10:43 - Process 1714 has exceeded memory threshold (80 KB): Memory usage is 28928 KB
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 1739
+2024-03-09 10:10:43 - Process 1739 has exceeded memory threshold (80 KB): Memory usage is 8960 KB
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 1749
+2024-03-09 10:10:43 - Process 1749 has exceeded memory threshold (80 KB): Memory usage is 28460 KB
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 175
+2024-03-09 10:10:43 - Warning: Memory usage not available for process 175
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 1751
+2024-03-09 10:10:43 - Process 1751 has exceeded memory threshold (80 KB): Memory usage is 7424 KB
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 176
+2024-03-09 10:10:43 - Warning: Memory usage not available for process 176
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 177
+2024-03-09 10:10:43 - Warning: Memory usage not available for process 177
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 1771
+2024-03-09 10:10:43 - Process 1771 has exceeded memory threshold (80 KB): Memory usage is 1664 KB
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 1772
+2024-03-09 10:10:43 - Process 1772 has exceeded memory threshold (80 KB): Memory usage is 6912 KB
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 1774
+2024-03-09 10:10:43 - Process 1774 has exceeded memory threshold (80 KB): Memory usage is 12144 KB
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 1775
+2024-03-09 10:10:43 - Process 1775 has exceeded memory threshold (80 KB): Memory usage is 26500 KB
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 1777
+2024-03-09 10:10:43 - Process 1777 has exceeded memory threshold (80 KB): Memory usage is 16384 KB
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 178
+2024-03-09 10:10:43 - Warning: Memory usage not available for process 178
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 1780
+2024-03-09 10:10:43 - Process 1780 has exceeded memory threshold (80 KB): Memory usage is 7808 KB
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 1783
+2024-03-09 10:10:43 - Process 1783 has exceeded memory threshold (80 KB): Memory usage is 22148 KB
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 1784
+2024-03-09 10:10:43 - Process 1784 has exceeded memory threshold (80 KB): Memory usage is 26472 KB
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 1785
+2024-03-09 10:10:43 - Process 1785 has exceeded memory threshold (80 KB): Memory usage is 25476 KB
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 1788
+2024-03-09 10:10:43 - Process 1788 has exceeded memory threshold (80 KB): Memory usage is 11648 KB
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 1791
+2024-03-09 10:10:43 - Process 1791 has exceeded memory threshold (80 KB): Memory usage is 6912 KB
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 1792
+2024-03-09 10:10:43 - Process 1792 has exceeded memory threshold (80 KB): Memory usage is 6400 KB
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 1795
+2024-03-09 10:10:43 - Process 1795 has exceeded memory threshold (80 KB): Memory usage is 10752 KB
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 1796
+2024-03-09 10:10:43 - Process 1796 has exceeded memory threshold (80 KB): Memory usage is 8320 KB
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 1797
+2024-03-09 10:10:43 - Process 1797 has exceeded memory threshold (80 KB): Memory usage is 9728 KB
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 1798
+2024-03-09 10:10:43 - Process 1798 has exceeded memory threshold (80 KB): Memory usage is 22276 KB
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 18
+2024-03-09 10:10:43 - Warning: Memory usage not available for process 18
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 1861
+2024-03-09 10:10:43 - Process 1861 has exceeded memory threshold (80 KB): Memory usage is 66560 KB
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 1873
+2024-03-09 10:10:43 - Process 1873 has exceeded memory threshold (80 KB): Memory usage is 7552 KB
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 1897
+2024-03-09 10:10:43 - Process 1897 has exceeded memory threshold (80 KB): Memory usage is 7552 KB
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 1899
+2024-03-09 10:10:43 - Process 1899 has exceeded memory threshold (80 KB): Memory usage is 28764 KB
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 19
+2024-03-09 10:10:43 - Warning: Memory usage not available for process 19
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 1917
+2024-03-09 10:10:43 - Process 1917 has exceeded memory threshold (80 KB): Memory usage is 7296 KB
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 1932
+2024-03-09 10:10:43 - Process 1932 has exceeded memory threshold (80 KB): Memory usage is 120500 KB
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 194
+2024-03-09 10:10:43 - Warning: Memory usage not available for process 194
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 1958
+2024-03-09 10:10:43 - Process 1958 has exceeded memory threshold (80 KB): Memory usage is 15104 KB
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 1972
+2024-03-09 10:10:43 - Process 1972 has exceeded memory threshold (80 KB): Memory usage is 7424 KB
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 198
+2024-03-09 10:10:43 - Warning: Memory usage not available for process 198
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 1982
+2024-03-09 10:10:43 - Process 1982 has exceeded memory threshold (80 KB): Memory usage is 13952 KB
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 2
+2024-03-09 10:10:43 - Warning: Memory usage not available for process 2
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 20
+2024-03-09 10:10:43 - Warning: Memory usage not available for process 20
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 2002
+2024-03-09 10:10:43 - Process 2002 has exceeded memory threshold (80 KB): Memory usage is 36356 KB
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 2018
+2024-03-09 10:10:43 - Process 2018 has exceeded memory threshold (80 KB): Memory usage is 29436 KB
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 2082
+2024-03-09 10:10:43 - Process 2082 has exceeded memory threshold (80 KB): Memory usage is 27916 KB
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 21
+2024-03-09 10:10:43 - Warning: Memory usage not available for process 21
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 2123
+2024-03-09 10:10:43 - Process 2123 has exceeded memory threshold (80 KB): Memory usage is 14208 KB
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 2126
+2024-03-09 10:10:43 - Process 2126 has exceeded memory threshold (80 KB): Memory usage is 25476 KB
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 21640
+2024-03-09 10:10:43 - Process 21640 has exceeded memory threshold (80 KB): Memory usage is 54912 KB
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 22
+2024-03-09 10:10:43 - Warning: Memory usage not available for process 22
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 220
+2024-03-09 10:10:43 - Warning: Memory usage not available for process 220
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 2203
+2024-03-09 10:10:43 - Process 2203 has exceeded memory threshold (80 KB): Memory usage is 21444 KB
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 221
+2024-03-09 10:10:43 - Warning: Memory usage not available for process 221
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 23
+2024-03-09 10:10:43 - Warning: Memory usage not available for process 23
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 2302
+2024-03-09 10:10:43 - Process 2302 has exceeded memory threshold (80 KB): Memory usage is 32308 KB
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 23420
+2024-03-09 10:10:43 - Warning: Memory usage not available for process 23420
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 23544
+2024-03-09 10:10:43 - Warning: Memory usage not available for process 23544
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 23552
+2024-03-09 10:10:43 - Warning: Memory usage not available for process 23552
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 23769
+2024-03-09 10:10:43 - Warning: Memory usage not available for process 23769
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 25
+2024-03-09 10:10:43 - Warning: Memory usage not available for process 25
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 25284
+2024-03-09 10:10:43 - Warning: Memory usage not available for process 25284
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 25601
+2024-03-09 10:10:43 - Warning: Memory usage not available for process 25601
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 25687
+2024-03-09 10:10:43 - Warning: Memory usage not available for process 25687
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 26
+2024-03-09 10:10:43 - Warning: Memory usage not available for process 26
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 260
+2024-03-09 10:10:43 - Process 260 has exceeded memory threshold (80 KB): Memory usage is 34816 KB
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 27
+2024-03-09 10:10:43 - Warning: Memory usage not available for process 27
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 28
+2024-03-09 10:10:43 - Warning: Memory usage not available for process 28
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 29
+2024-03-09 10:10:43 - Warning: Memory usage not available for process 29
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 3
+2024-03-09 10:10:43 - Warning: Memory usage not available for process 3
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 31
+2024-03-09 10:10:43 - Warning: Memory usage not available for process 31
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 312
+2024-03-09 10:10:43 - Process 312 has exceeded memory threshold (80 KB): Memory usage is 7168 KB
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 3129
+2024-03-09 10:10:43 - Process 3129 has exceeded memory threshold (80 KB): Memory usage is 32128 KB
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 32
+2024-03-09 10:10:43 - Warning: Memory usage not available for process 32
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 32121
+2024-03-09 10:10:43 - Warning: Memory usage not available for process 32121
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 33
+2024-03-09 10:10:43 - Warning: Memory usage not available for process 33
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 3394
+2024-03-09 10:10:43 - Warning: Memory usage not available for process 3394
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 34
+2024-03-09 10:10:43 - Warning: Memory usage not available for process 34
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 35
+2024-03-09 10:10:43 - Warning: Memory usage not available for process 35
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 3507
+2024-03-09 10:10:43 - Warning: Memory usage not available for process 3507
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 35138
+2024-03-09 10:10:43 - Process 35138 has exceeded memory threshold (80 KB): Memory usage is 77276 KB
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 35148
+2024-03-09 10:10:43 - Process 35148 has exceeded memory threshold (80 KB): Memory usage is 5504 KB
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 355
+2024-03-09 10:10:43 - Warning: Memory usage not available for process 355
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 35610
+2024-03-09 10:10:43 - Warning: Memory usage not available for process 35610
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 35677
+2024-03-09 10:10:43 - Warning: Memory usage not available for process 35677
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 35678
+2024-03-09 10:10:43 - Warning: Memory usage not available for process 35678
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 35749
+2024-03-09 10:10:43 - Warning: Memory usage not available for process 35749
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 35750
+2024-03-09 10:10:43 - Warning: Memory usage not available for process 35750
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 35778
+2024-03-09 10:10:43 - Process 35778 has exceeded memory threshold (80 KB): Memory usage is 302492 KB
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 35827
+2024-03-09 10:10:43 - Process 35827 has exceeded memory threshold (80 KB): Memory usage is 72832 KB
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 35844
+2024-03-09 10:10:43 - Warning: Memory usage not available for process 35844
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 35846
+2024-03-09 10:10:43 - Warning: Memory usage not available for process 35846
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 35851
+2024-03-09 10:10:43 - Warning: Memory usage not available for process 35851
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 35907
+2024-03-09 10:10:43 - Warning: Memory usage not available for process 35907
+2024-03-09 10:10:43 - Warning: CPU usage not available for process 3621
+2024-03-09 10:10:44 - Process 3621 has exceeded memory threshold (80 KB): Memory usage is 68912 KB
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 37
+2024-03-09 10:10:44 - Warning: Memory usage not available for process 37
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 373
+2024-03-09 10:10:44 - Warning: Memory usage not available for process 373
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 374
+2024-03-09 10:10:44 - Warning: Memory usage not available for process 374
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 375
+2024-03-09 10:10:44 - Warning: Memory usage not available for process 375
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 376
+2024-03-09 10:10:44 - Warning: Memory usage not available for process 376
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 377
+2024-03-09 10:10:44 - Warning: Memory usage not available for process 377
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 378
+2024-03-09 10:10:44 - Warning: Memory usage not available for process 378
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 3782
+2024-03-09 10:10:44 - Process 3782 has exceeded memory threshold (80 KB): Memory usage is 172168 KB
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 3784
+2024-03-09 10:10:44 - Process 3784 has exceeded memory threshold (80 KB): Memory usage is 48000 KB
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 3785
+2024-03-09 10:10:44 - Process 3785 has exceeded memory threshold (80 KB): Memory usage is 47616 KB
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 379
+2024-03-09 10:10:44 - Warning: Memory usage not available for process 379
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 3798
+2024-03-09 10:10:44 - Process 3798 has exceeded memory threshold (80 KB): Memory usage is 3456 KB
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 38
+2024-03-09 10:10:44 - Warning: Memory usage not available for process 38
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 380
+2024-03-09 10:10:44 - Warning: Memory usage not available for process 380
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 3801
+2024-03-09 10:10:44 - Process 3801 has exceeded memory threshold (80 KB): Memory usage is 103312 KB
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 381
+2024-03-09 10:10:44 - Warning: Memory usage not available for process 381
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 382
+2024-03-09 10:10:44 - Warning: Memory usage not available for process 382
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 3821
+2024-03-09 10:10:44 - Process 3821 has exceeded memory threshold (80 KB): Memory usage is 81144 KB
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 3853
+2024-03-09 10:10:44 - Process 3853 has exceeded memory threshold (80 KB): Memory usage is 25168 KB
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 3882
+2024-03-09 10:10:44 - Process 3882 has exceeded memory threshold (80 KB): Memory usage is 66304 KB
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 39
+2024-03-09 10:10:44 - Warning: Memory usage not available for process 39
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 3913
+2024-03-09 10:10:44 - Process 3913 has exceeded memory threshold (80 KB): Memory usage is 289332 KB
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 3944
+2024-03-09 10:10:44 - Process 3944 has exceeded memory threshold (80 KB): Memory usage is 120728 KB
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 3973
+2024-03-09 10:10:44 - Process 3973 has exceeded memory threshold (80 KB): Memory usage is 97032 KB
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 3974
+2024-03-09 10:10:44 - Process 3974 has exceeded memory threshold (80 KB): Memory usage is 139844 KB
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 3993
+2024-03-09 10:10:44 - Process 3993 has exceeded memory threshold (80 KB): Memory usage is 99292 KB
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 3994
+2024-03-09 10:10:44 - Process 3994 has exceeded memory threshold (80 KB): Memory usage is 87632 KB
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 4
+2024-03-09 10:10:44 - Warning: Memory usage not available for process 4
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 40
+2024-03-09 10:10:44 - Warning: Memory usage not available for process 40
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 4034
+2024-03-09 10:10:44 - Process 4034 has exceeded memory threshold (80 KB): Memory usage is 5504 KB
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 4079
+2024-03-09 10:10:44 - Process 4079 has exceeded memory threshold (80 KB): Memory usage is 94664 KB
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 41
+2024-03-09 10:10:44 - Warning: Memory usage not available for process 41
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 43
+2024-03-09 10:10:44 - Warning: Memory usage not available for process 43
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 44
+2024-03-09 10:10:44 - Warning: Memory usage not available for process 44
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 45
+2024-03-09 10:10:44 - Warning: Memory usage not available for process 45
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 46
+2024-03-09 10:10:44 - Warning: Memory usage not available for process 46
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 466
+2024-03-09 10:10:44 - Warning: Memory usage not available for process 466
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 47
+2024-03-09 10:10:44 - Warning: Memory usage not available for process 47
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 479
+2024-03-09 10:10:44 - Warning: Memory usage not available for process 479
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 480
+2024-03-09 10:10:44 - Warning: Memory usage not available for process 480
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 481
+2024-03-09 10:10:44 - Warning: Memory usage not available for process 481
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 482
+2024-03-09 10:10:44 - Warning: Memory usage not available for process 482
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 483
+2024-03-09 10:10:44 - Process 483 has exceeded memory threshold (80 KB): Memory usage is 6784 KB
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 484
+2024-03-09 10:10:44 - Process 484 has exceeded memory threshold (80 KB): Memory usage is 13632 KB
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 485
+2024-03-09 10:10:44 - Process 485 has exceeded memory threshold (80 KB): Memory usage is 7424 KB
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 49
+2024-03-09 10:10:44 - Warning: Memory usage not available for process 49
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 5
+2024-03-09 10:10:44 - Warning: Memory usage not available for process 5
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 50
+2024-03-09 10:10:44 - Warning: Memory usage not available for process 50
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 50415
+2024-03-09 10:10:44 - Process 50415 has exceeded memory threshold (80 KB): Memory usage is 72176 KB
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 51
+2024-03-09 10:10:44 - Warning: Memory usage not available for process 51
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 52
+2024-03-09 10:10:44 - Warning: Memory usage not available for process 52
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 53
+2024-03-09 10:10:44 - Warning: Memory usage not available for process 53
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 54241
+2024-03-09 10:10:44 - Warning: Memory usage not available for process 54241
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 55
+2024-03-09 10:10:44 - Warning: Memory usage not available for process 55
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 559
+2024-03-09 10:10:44 - Process 559 has exceeded memory threshold (80 KB): Memory usage is 7504 KB
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 56
+2024-03-09 10:10:44 - Warning: Memory usage not available for process 56
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 562
+2024-03-09 10:10:44 - Process 562 has exceeded memory threshold (80 KB): Memory usage is 1792 KB
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 567
+2024-03-09 10:10:44 - Process 567 has exceeded memory threshold (80 KB): Memory usage is 3584 KB
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 57
+2024-03-09 10:10:44 - Warning: Memory usage not available for process 57
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 570
+2024-03-09 10:10:44 - Process 570 has exceeded memory threshold (80 KB): Memory usage is 5248 KB
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 572
+2024-03-09 10:10:44 - Process 572 has exceeded memory threshold (80 KB): Memory usage is 2944 KB
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 57300
+2024-03-09 10:10:44 - Warning: Memory usage not available for process 57300
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 57359
+2024-03-09 10:10:44 - Process 57359 has exceeded memory threshold (80 KB): Memory usage is 72192 KB
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 57392
+2024-03-09 10:10:44 - Warning: Memory usage not available for process 57392
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 57397
+2024-03-09 10:10:44 - Warning: Memory usage not available for process 57397
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 574
+2024-03-09 10:10:44 - Process 574 has exceeded memory threshold (80 KB): Memory usage is 6272 KB
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 57400
+2024-03-09 10:10:44 - Warning: Memory usage not available for process 57400
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 57409
+2024-03-09 10:10:44 - Warning: Memory usage not available for process 57409
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 57410
+2024-03-09 10:10:44 - Warning: Memory usage not available for process 57410
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 57421
+2024-03-09 10:10:44 - Warning: Memory usage not available for process 57421
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 57422
+2024-03-09 10:10:44 - Warning: Memory usage not available for process 57422
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 575
+2024-03-09 10:10:44 - Process 575 has exceeded memory threshold (80 KB): Memory usage is 19164 KB
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 57545
+2024-03-09 10:10:44 - Warning: Memory usage not available for process 57545
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 57587
+2024-03-09 10:10:44 - Process 57587 has exceeded memory threshold (80 KB): Memory usage is 4096 KB
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 58
+2024-03-09 10:10:44 - Warning: Memory usage not available for process 58
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 583
+2024-03-09 10:10:44 - Process 583 has exceeded memory threshold (80 KB): Memory usage is 7296 KB
+2024-03-09 10:10:44 - Error: Process 58866 not found.
+2024-03-09 10:10:44 - Error: Process 58866 not found.
+2024-03-09 10:10:44 - Error: Process 58867 not found.
+2024-03-09 10:10:44 - Error: Process 58867 not found.
+2024-03-09 10:10:44 - Error: Process 58868 not found.
+2024-03-09 10:10:44 - Error: Process 58868 not found.
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 589
+2024-03-09 10:10:44 - Process 589 has exceeded memory threshold (80 KB): Memory usage is 4096 KB
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 59
+2024-03-09 10:10:44 - Warning: Memory usage not available for process 59
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 591
+2024-03-09 10:10:44 - Process 591 has exceeded memory threshold (80 KB): Memory usage is 20608 KB
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 595
+2024-03-09 10:10:44 - Process 595 has exceeded memory threshold (80 KB): Memory usage is 10916 KB
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 596
+2024-03-09 10:10:44 - Warning: Memory usage not available for process 596
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 597
+2024-03-09 10:10:44 - Process 597 has exceeded memory threshold (80 KB): Memory usage is 7668 KB
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 6
+2024-03-09 10:10:44 - Warning: Memory usage not available for process 6
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 600
+2024-03-09 10:10:44 - Process 600 has exceeded memory threshold (80 KB): Memory usage is 5632 KB
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 61
+2024-03-09 10:10:44 - Warning: Memory usage not available for process 61
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 610
+2024-03-09 10:10:44 - Process 610 has exceeded memory threshold (80 KB): Memory usage is 33448 KB
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 614
+2024-03-09 10:10:44 - Process 614 has exceeded memory threshold (80 KB): Memory usage is 6656 KB
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 62
+2024-03-09 10:10:44 - Warning: Memory usage not available for process 62
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 623
+2024-03-09 10:10:44 - Process 623 has exceeded memory threshold (80 KB): Memory usage is 7724 KB
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 624
+2024-03-09 10:10:44 - Process 624 has exceeded memory threshold (80 KB): Memory usage is 10880 KB
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 625
+2024-03-09 10:10:44 - Process 625 has exceeded memory threshold (80 KB): Memory usage is 12996 KB
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 628
+2024-03-09 10:10:44 - Process 628 has exceeded memory threshold (80 KB): Memory usage is 11392 KB
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 63
+2024-03-09 10:10:44 - Warning: Memory usage not available for process 63
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 64
+2024-03-09 10:10:44 - Warning: Memory usage not available for process 64
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 66
+2024-03-09 10:10:44 - Warning: Memory usage not available for process 66
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 661
+2024-03-09 10:10:44 - Process 661 has exceeded memory threshold (80 KB): Memory usage is 1280 KB
+2024-03-09 10:10:44 - Warning: CPU usage not available for process 67
+2024-03-09 10:10:44 - Warning: Memory usage not available for process 67
+2024-03-09 10:10:45 - Warning: CPU usage not available for process 676
+2024-03-09 10:10:45 - Process 676 has exceeded memory threshold (80 KB): Memory usage is 12204 KB
+2024-03-09 10:10:45 - Warning: CPU usage not available for process 69
+2024-03-09 10:10:45 - Warning: Memory usage not available for process 69
+2024-03-09 10:10:45 - Warning: CPU usage not available for process 70
+2024-03-09 10:10:45 - Warning: Memory usage not available for process 70
+2024-03-09 10:10:45 - Warning: CPU usage not available for process 705
+2024-03-09 10:10:45 - Process 705 has exceeded memory threshold (80 KB): Memory usage is 13440 KB
+2024-03-09 10:10:45 - Warning: CPU usage not available for process 71
+2024-03-09 10:10:45 - Warning: Memory usage not available for process 71
+2024-03-09 10:10:45 - Warning: CPU usage not available for process 710
+2024-03-09 10:10:45 - Process 710 has exceeded memory threshold (80 KB): Memory usage is 18432 KB
+2024-03-09 10:10:45 - Warning: CPU usage not available for process 72
+2024-03-09 10:10:45 - Warning: Memory usage not available for process 72
+2024-03-09 10:10:45 - Warning: CPU usage not available for process 73
+2024-03-09 10:10:45 - Warning: Memory usage not available for process 73
+2024-03-09 10:10:45 - Warning: CPU usage not available for process 74
+2024-03-09 10:10:45 - Warning: Memory usage not available for process 74
+2024-03-09 10:10:45 - Warning: CPU usage not available for process 75
+2024-03-09 10:10:45 - Warning: Memory usage not available for process 75
+2024-03-09 10:10:45 - Warning: CPU usage not available for process 762
+2024-03-09 10:10:45 - Process 762 has exceeded memory threshold (80 KB): Memory usage is 8960 KB
+2024-03-09 10:10:45 - Warning: CPU usage not available for process 77
+2024-03-09 10:10:45 - Warning: Memory usage not available for process 77
+2024-03-09 10:10:45 - Warning: CPU usage not available for process 772
+2024-03-09 10:10:45 - Process 772 has exceeded memory threshold (80 KB): Memory usage is 6528 KB
+2024-03-09 10:10:45 - Warning: CPU usage not available for process 79
+2024-03-09 10:10:45 - Warning: Memory usage not available for process 79
+2024-03-09 10:10:45 - Warning: CPU usage not available for process 8
+2024-03-09 10:10:45 - Warning: Memory usage not available for process 8
+2024-03-09 10:10:45 - Warning: CPU usage not available for process 80
+2024-03-09 10:10:45 - Warning: Memory usage not available for process 80
+2024-03-09 10:10:45 - Warning: CPU usage not available for process 81
+2024-03-09 10:10:45 - Warning: Memory usage not available for process 81
+2024-03-09 10:10:45 - Warning: CPU usage not available for process 812
+2024-03-09 10:10:45 - Process 812 has exceeded memory threshold (80 KB): Memory usage is 23296 KB
+2024-03-09 10:10:45 - Warning: CPU usage not available for process 82
+2024-03-09 10:10:45 - Warning: Memory usage not available for process 82
+2024-03-09 10:10:45 - Warning: CPU usage not available for process 823
+2024-03-09 10:10:45 - Process 823 has exceeded memory threshold (80 KB): Memory usage is 11596 KB
+2024-03-09 10:10:45 - Warning: CPU usage not available for process 83
+2024-03-09 10:10:45 - Warning: Memory usage not available for process 83
+2024-03-09 10:10:45 - Warning: CPU usage not available for process 85
+2024-03-09 10:10:45 - Warning: Memory usage not available for process 85
+2024-03-09 10:10:45 - Warning: CPU usage not available for process 866
+2024-03-09 10:10:45 - Process 866 has exceeded memory threshold (80 KB): Memory usage is 3200 KB
+2024-03-09 10:10:45 - Warning: CPU usage not available for process 88
+2024-03-09 10:10:45 - Warning: Memory usage not available for process 88
+2024-03-09 10:10:45 - Warning: CPU usage not available for process 89
+2024-03-09 10:10:45 - Warning: Memory usage not available for process 89
+2024-03-09 10:10:45 - Warning: CPU usage not available for process 90
+2024-03-09 10:10:45 - Warning: Memory usage not available for process 90
+2024-03-09 10:10:45 - Warning: CPU usage not available for process 900
+2024-03-09 10:10:45 - Process 900 has exceeded memory threshold (80 KB): Memory usage is 9216 KB
+2024-03-09 10:10:45 - Warning: CPU usage not available for process 91
+2024-03-09 10:10:45 - Warning: Memory usage not available for process 91
+2024-03-09 10:10:45 - Warning: CPU usage not available for process 9104
+2024-03-09 10:10:45 - Process 9104 has exceeded memory threshold (80 KB): Memory usage is 474332 KB
+2024-03-09 10:10:45 - Warning: CPU usage not available for process 9302
+2024-03-09 10:10:45 - Process 9302 has exceeded memory threshold (80 KB): Memory usage is 48896 KB
+2024-03-09 10:10:45 - Warning: CPU usage not available for process 9327
+2024-03-09 10:10:45 - Process 9327 has exceeded memory threshold (80 KB): Memory usage is 116504 KB
+2024-03-09 10:10:45 - Warning: CPU usage not available for process 9366
+2024-03-09 10:10:45 - Process 9366 has exceeded memory threshold (80 KB): Memory usage is 19420 KB
+2024-03-09 10:10:45 - Warning: CPU usage not available for process 9448
+2024-03-09 10:10:45 - Process 9448 has exceeded memory threshold (80 KB): Memory usage is 300812 KB
+2024-03-09 10:10:45 - Warning: CPU usage not available for process 95
+2024-03-09 10:10:45 - Warning: Memory usage not available for process 95
+2024-03-09 10:10:45 - Warning: CPU usage not available for process 9627
+2024-03-09 10:10:45 - Process 9627 has exceeded memory threshold (80 KB): Memory usage is 59136 KB
+2024-03-09 10:10:45 - Warning: CPU usage not available for process 9638
+2024-03-09 10:10:45 - Process 9638 has exceeded memory threshold (80 KB): Memory usage is 200788 KB
+2024-03-09 10:10:45 - Warning: CPU usage not available for process 97
+2024-03-09 10:10:45 - Warning: Memory usage not available for process 97
+2024-03-09 10:10:45 - Warning: CPU usage not available for process 9730
+2024-03-09 10:10:45 - Process 9730 has exceeded memory threshold (80 KB): Memory usage is 482620 KB
+2024-03-09 10:10:45 - Warning: CPU usage not available for process 99
+2024-03-09 10:10:45 - Warning: Memory usage not available for process 99
+2024-03-09 10:10:50 - Warning: CPU usage not available for process 1
+2024-03-09 10:10:50 - Process 1 has exceeded memory threshold (80 KB): Memory usage is 12764 KB
+2024-03-09 10:10:50 - Warning: CPU usage not available for process 100
+2024-03-09 10:10:50 - Warning: Memory usage not available for process 100
+2024-03-09 10:10:50 - Warning: CPU usage not available for process 101
+2024-03-09 10:10:50 - Warning: Memory usage not available for process 101
+2024-03-09 10:10:50 - Warning: CPU usage not available for process 108
+2024-03-09 10:10:50 - Warning: Memory usage not available for process 108
+2024-03-09 10:10:50 - Warning: CPU usage not available for process 1082
+2024-03-09 10:10:50 - Process 1082 has exceeded memory threshold (80 KB): Memory usage is 39388 KB
+2024-03-09 10:10:50 - Warning: CPU usage not available for process 11
+2024-03-09 10:10:50 - Warning: Memory usage not available for process 11
+2024-03-09 10:10:50 - Warning: CPU usage not available for process 114
+2024-03-09 10:10:50 - Warning: Memory usage not available for process 114
+2024-03-09 10:10:50 - Warning: CPU usage not available for process 12
+2024-03-09 10:10:50 - Warning: Memory usage not available for process 12
+2024-03-09 10:10:50 - Warning: CPU usage not available for process 1243
+2024-03-09 10:10:50 - Process 1243 has exceeded memory threshold (80 KB): Memory usage is 13008 KB
+2024-03-09 10:10:50 - Warning: CPU usage not available for process 13
+2024-03-09 10:10:50 - Warning: Memory usage not available for process 13
+2024-03-09 10:10:50 - Warning: CPU usage not available for process 1333
+2024-03-09 10:10:50 - Process 1333 has exceeded memory threshold (80 KB): Memory usage is 11520 KB
+2024-03-09 10:10:50 - Warning: CPU usage not available for process 134
+2024-03-09 10:10:50 - Warning: Memory usage not available for process 134
+2024-03-09 10:10:50 - Warning: CPU usage not available for process 1349
+2024-03-09 10:10:50 - Process 1349 has exceeded memory threshold (80 KB): Memory usage is 2192 KB
+2024-03-09 10:10:50 - Warning: CPU usage not available for process 1351
+2024-03-09 10:10:50 - Process 1351 has exceeded memory threshold (80 KB): Memory usage is 2056 KB
+2024-03-09 10:10:50 - Warning: CPU usage not available for process 137
+2024-03-09 10:10:50 - Warning: Memory usage not available for process 137
+2024-03-09 10:10:50 - Warning: CPU usage not available for process 1379
+2024-03-09 10:10:50 - Process 1379 has exceeded memory threshold (80 KB): Memory usage is 11004 KB
+2024-03-09 10:10:50 - Warning: CPU usage not available for process 1389
+2024-03-09 10:10:50 - Process 1389 has exceeded memory threshold (80 KB): Memory usage is 10496 KB
+2024-03-09 10:10:50 - Warning: CPU usage not available for process 1390
+2024-03-09 10:10:50 - Process 1390 has exceeded memory threshold (80 KB): Memory usage is 5780 KB
+2024-03-09 10:10:50 - Warning: CPU usage not available for process 1396
+2024-03-09 10:10:50 - Process 1396 has exceeded memory threshold (80 KB): Memory usage is 6528 KB
+2024-03-09 10:10:50 - Warning: CPU usage not available for process 1397
+2024-03-09 10:10:50 - Process 1397 has exceeded memory threshold (80 KB): Memory usage is 6528 KB
+2024-03-09 10:10:50 - Warning: CPU usage not available for process 1398
+2024-03-09 10:10:50 - Process 1398 has exceeded memory threshold (80 KB): Memory usage is 29556 KB
+2024-03-09 10:10:50 - Warning: CPU usage not available for process 14
+2024-03-09 10:10:50 - Warning: Memory usage not available for process 14
+2024-03-09 10:10:50 - Warning: CPU usage not available for process 1400
+2024-03-09 10:10:50 - Process 1400 has exceeded memory threshold (80 KB): Memory usage is 8448 KB
+2024-03-09 10:10:50 - Warning: CPU usage not available for process 1415
+2024-03-09 10:10:50 - Process 1415 has exceeded memory threshold (80 KB): Memory usage is 7324 KB
+2024-03-09 10:10:50 - Warning: CPU usage not available for process 1436
+2024-03-09 10:10:50 - Process 1436 has exceeded memory threshold (80 KB): Memory usage is 6120 KB
+2024-03-09 10:10:50 - Warning: CPU usage not available for process 1437
+2024-03-09 10:10:50 - Process 1437 has exceeded memory threshold (80 KB): Memory usage is 7424 KB
+2024-03-09 10:10:50 - Warning: CPU usage not available for process 1442
+2024-03-09 10:10:50 - Process 1442 has exceeded memory threshold (80 KB): Memory usage is 6016 KB
+2024-03-09 10:10:50 - Warning: CPU usage not available for process 1448
+2024-03-09 10:10:50 - Process 1448 has exceeded memory threshold (80 KB): Memory usage is 1792 KB
+2024-03-09 10:10:50 - Warning: CPU usage not available for process 1470
+2024-03-09 10:10:50 - Warning: Memory usage not available for process 1470
+2024-03-09 10:10:50 - Warning: CPU usage not available for process 1472
+2024-03-09 10:10:50 - Process 1472 has exceeded memory threshold (80 KB): Memory usage is 6144 KB
+2024-03-09 10:10:50 - Warning: CPU usage not available for process 1475
+2024-03-09 10:10:50 - Process 1475 has exceeded memory threshold (80 KB): Memory usage is 15872 KB
+2024-03-09 10:10:50 - Warning: CPU usage not available for process 149
+2024-03-09 10:10:50 - Warning: Memory usage not available for process 149
+2024-03-09 10:10:50 - Warning: CPU usage not available for process 15
+2024-03-09 10:10:50 - Warning: Memory usage not available for process 15
+2024-03-09 10:10:50 - Warning: CPU usage not available for process 151
+2024-03-09 10:10:50 - Warning: Memory usage not available for process 151
+2024-03-09 10:10:50 - Warning: CPU usage not available for process 152
+2024-03-09 10:10:50 - Warning: Memory usage not available for process 152
+2024-03-09 10:10:50 - Warning: CPU usage not available for process 1521
+2024-03-09 10:10:50 - Process 1521 has exceeded memory threshold (80 KB): Memory usage is 5504 KB
+2024-03-09 10:10:50 - Warning: CPU usage not available for process 153
+2024-03-09 10:10:50 - Warning: Memory usage not available for process 153
+2024-03-09 10:10:50 - Warning: CPU usage not available for process 1531
+2024-03-09 10:10:50 - Process 1531 has exceeded memory threshold (80 KB): Memory usage is 7680 KB
+2024-03-09 10:10:50 - Warning: CPU usage not available for process 1539
+2024-03-09 10:10:50 - Process 1539 has exceeded memory threshold (80 KB): Memory usage is 6784 KB
+2024-03-09 10:10:50 - Warning: CPU usage not available for process 1541
+2024-03-09 10:10:50 - Process 1541 has exceeded memory threshold (80 KB): Memory usage is 17280 KB
+2024-03-09 10:10:50 - Warning: CPU usage not available for process 1561
+2024-03-09 10:10:50 - Process 1561 has exceeded memory threshold (80 KB): Memory usage is 7552 KB
+2024-03-09 10:10:50 - Warning: CPU usage not available for process 1568
+2024-03-09 10:10:50 - Process 1568 has exceeded memory threshold (80 KB): Memory usage is 4352 KB
+2024-03-09 10:10:50 - Warning: CPU usage not available for process 1571
+2024-03-09 10:10:50 - Process 1571 has exceeded memory threshold (80 KB): Memory usage is 329104 KB
+2024-03-09 10:10:50 - Warning: CPU usage not available for process 16
+2024-03-09 10:10:50 - Warning: Memory usage not available for process 16
+2024-03-09 10:10:50 - Warning: CPU usage not available for process 1646
+2024-03-09 10:10:50 - Process 1646 has exceeded memory threshold (80 KB): Memory usage is 21376 KB
+2024-03-09 10:10:50 - Warning: CPU usage not available for process 1652
+2024-03-09 10:10:50 - Process 1652 has exceeded memory threshold (80 KB): Memory usage is 38912 KB
+2024-03-09 10:10:50 - Warning: CPU usage not available for process 1659
+2024-03-09 10:10:50 - Process 1659 has exceeded memory threshold (80 KB): Memory usage is 85760 KB
+2024-03-09 10:10:50 - Warning: CPU usage not available for process 1660
+2024-03-09 10:10:50 - Process 1660 has exceeded memory threshold (80 KB): Memory usage is 5888 KB
+2024-03-09 10:10:50 - Warning: CPU usage not available for process 1661
+2024-03-09 10:10:50 - Process 1661 has exceeded memory threshold (80 KB): Memory usage is 6656 KB
+2024-03-09 10:10:50 - Warning: CPU usage not available for process 1666
+2024-03-09 10:10:50 - Process 1666 has exceeded memory threshold (80 KB): Memory usage is 10368 KB
+2024-03-09 10:10:50 - Warning: CPU usage not available for process 1675
+2024-03-09 10:10:50 - Process 1675 has exceeded memory threshold (80 KB): Memory usage is 14848 KB
+2024-03-09 10:10:50 - Warning: CPU usage not available for process 1685
+2024-03-09 10:10:50 - Process 1685 has exceeded memory threshold (80 KB): Memory usage is 54276 KB
+2024-03-09 10:10:50 - Warning: CPU usage not available for process 1689
+2024-03-09 10:10:50 - Process 1689 has exceeded memory threshold (80 KB): Memory usage is 6656 KB
+2024-03-09 10:10:50 - Warning: CPU usage not available for process 1695
+2024-03-09 10:10:50 - Process 1695 has exceeded memory threshold (80 KB): Memory usage is 7040 KB
+2024-03-09 10:10:50 - Warning: CPU usage not available for process 1699
+2024-03-09 10:10:50 - Process 1699 has exceeded memory threshold (80 KB): Memory usage is 7552 KB
+2024-03-09 10:10:50 - Warning: CPU usage not available for process 17
+2024-03-09 10:10:50 - Warning: Memory usage not available for process 17
+2024-03-09 10:10:50 - Warning: CPU usage not available for process 1703
+2024-03-09 10:10:50 - Process 1703 has exceeded memory threshold (80 KB): Memory usage is 8192 KB
+2024-03-09 10:10:50 - Warning: CPU usage not available for process 1714
+2024-03-09 10:10:50 - Process 1714 has exceeded memory threshold (80 KB): Memory usage is 28928 KB
+2024-03-09 10:10:50 - Warning: CPU usage not available for process 1739
+2024-03-09 10:10:50 - Process 1739 has exceeded memory threshold (80 KB): Memory usage is 8960 KB
+2024-03-09 10:10:50 - Warning: CPU usage not available for process 1749
+2024-03-09 10:10:50 - Process 1749 has exceeded memory threshold (80 KB): Memory usage is 28460 KB
+2024-03-09 10:10:50 - Warning: CPU usage not available for process 175
+2024-03-09 10:10:51 - Warning: Memory usage not available for process 175
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 1751
+2024-03-09 10:10:51 - Process 1751 has exceeded memory threshold (80 KB): Memory usage is 7424 KB
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 176
+2024-03-09 10:10:51 - Warning: Memory usage not available for process 176
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 177
+2024-03-09 10:10:51 - Warning: Memory usage not available for process 177
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 1771
+2024-03-09 10:10:51 - Process 1771 has exceeded memory threshold (80 KB): Memory usage is 1664 KB
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 1772
+2024-03-09 10:10:51 - Process 1772 has exceeded memory threshold (80 KB): Memory usage is 6912 KB
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 1774
+2024-03-09 10:10:51 - Process 1774 has exceeded memory threshold (80 KB): Memory usage is 12144 KB
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 1775
+2024-03-09 10:10:51 - Process 1775 has exceeded memory threshold (80 KB): Memory usage is 26500 KB
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 1777
+2024-03-09 10:10:51 - Process 1777 has exceeded memory threshold (80 KB): Memory usage is 16384 KB
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 178
+2024-03-09 10:10:51 - Warning: Memory usage not available for process 178
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 1780
+2024-03-09 10:10:51 - Process 1780 has exceeded memory threshold (80 KB): Memory usage is 7808 KB
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 1783
+2024-03-09 10:10:51 - Process 1783 has exceeded memory threshold (80 KB): Memory usage is 22148 KB
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 1784
+2024-03-09 10:10:51 - Process 1784 has exceeded memory threshold (80 KB): Memory usage is 26472 KB
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 1785
+2024-03-09 10:10:51 - Process 1785 has exceeded memory threshold (80 KB): Memory usage is 25476 KB
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 1788
+2024-03-09 10:10:51 - Process 1788 has exceeded memory threshold (80 KB): Memory usage is 11648 KB
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 1791
+2024-03-09 10:10:51 - Process 1791 has exceeded memory threshold (80 KB): Memory usage is 6912 KB
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 1792
+2024-03-09 10:10:51 - Process 1792 has exceeded memory threshold (80 KB): Memory usage is 6400 KB
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 1795
+2024-03-09 10:10:51 - Process 1795 has exceeded memory threshold (80 KB): Memory usage is 10752 KB
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 1796
+2024-03-09 10:10:51 - Process 1796 has exceeded memory threshold (80 KB): Memory usage is 8320 KB
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 1797
+2024-03-09 10:10:51 - Process 1797 has exceeded memory threshold (80 KB): Memory usage is 9728 KB
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 1798
+2024-03-09 10:10:51 - Process 1798 has exceeded memory threshold (80 KB): Memory usage is 22276 KB
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 18
+2024-03-09 10:10:51 - Warning: Memory usage not available for process 18
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 1861
+2024-03-09 10:10:51 - Process 1861 has exceeded memory threshold (80 KB): Memory usage is 66560 KB
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 1873
+2024-03-09 10:10:51 - Process 1873 has exceeded memory threshold (80 KB): Memory usage is 7552 KB
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 1897
+2024-03-09 10:10:51 - Process 1897 has exceeded memory threshold (80 KB): Memory usage is 7552 KB
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 1899
+2024-03-09 10:10:51 - Process 1899 has exceeded memory threshold (80 KB): Memory usage is 28764 KB
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 19
+2024-03-09 10:10:51 - Warning: Memory usage not available for process 19
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 1917
+2024-03-09 10:10:51 - Process 1917 has exceeded memory threshold (80 KB): Memory usage is 7296 KB
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 1932
+2024-03-09 10:10:51 - Process 1932 has exceeded memory threshold (80 KB): Memory usage is 120500 KB
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 194
+2024-03-09 10:10:51 - Warning: Memory usage not available for process 194
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 1958
+2024-03-09 10:10:51 - Process 1958 has exceeded memory threshold (80 KB): Memory usage is 15104 KB
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 1972
+2024-03-09 10:10:51 - Process 1972 has exceeded memory threshold (80 KB): Memory usage is 7424 KB
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 198
+2024-03-09 10:10:51 - Warning: Memory usage not available for process 198
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 1982
+2024-03-09 10:10:51 - Process 1982 has exceeded memory threshold (80 KB): Memory usage is 13952 KB
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 2
+2024-03-09 10:10:51 - Warning: Memory usage not available for process 2
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 20
+2024-03-09 10:10:51 - Warning: Memory usage not available for process 20
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 2002
+2024-03-09 10:10:51 - Process 2002 has exceeded memory threshold (80 KB): Memory usage is 36356 KB
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 2018
+2024-03-09 10:10:51 - Process 2018 has exceeded memory threshold (80 KB): Memory usage is 29436 KB
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 2082
+2024-03-09 10:10:51 - Process 2082 has exceeded memory threshold (80 KB): Memory usage is 27916 KB
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 21
+2024-03-09 10:10:51 - Warning: Memory usage not available for process 21
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 2123
+2024-03-09 10:10:51 - Process 2123 has exceeded memory threshold (80 KB): Memory usage is 14208 KB
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 2126
+2024-03-09 10:10:51 - Process 2126 has exceeded memory threshold (80 KB): Memory usage is 25476 KB
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 21640
+2024-03-09 10:10:51 - Process 21640 has exceeded memory threshold (80 KB): Memory usage is 54912 KB
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 22
+2024-03-09 10:10:51 - Warning: Memory usage not available for process 22
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 220
+2024-03-09 10:10:51 - Warning: Memory usage not available for process 220
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 2203
+2024-03-09 10:10:51 - Process 2203 has exceeded memory threshold (80 KB): Memory usage is 21444 KB
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 221
+2024-03-09 10:10:51 - Warning: Memory usage not available for process 221
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 23
+2024-03-09 10:10:51 - Warning: Memory usage not available for process 23
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 2302
+2024-03-09 10:10:51 - Process 2302 has exceeded memory threshold (80 KB): Memory usage is 32308 KB
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 23420
+2024-03-09 10:10:51 - Warning: Memory usage not available for process 23420
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 23544
+2024-03-09 10:10:51 - Warning: Memory usage not available for process 23544
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 23552
+2024-03-09 10:10:51 - Warning: Memory usage not available for process 23552
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 23769
+2024-03-09 10:10:51 - Warning: Memory usage not available for process 23769
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 25
+2024-03-09 10:10:51 - Warning: Memory usage not available for process 25
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 25284
+2024-03-09 10:10:51 - Warning: Memory usage not available for process 25284
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 25601
+2024-03-09 10:10:51 - Warning: Memory usage not available for process 25601
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 25687
+2024-03-09 10:10:51 - Warning: Memory usage not available for process 25687
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 26
+2024-03-09 10:10:51 - Warning: Memory usage not available for process 26
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 260
+2024-03-09 10:10:51 - Process 260 has exceeded memory threshold (80 KB): Memory usage is 34816 KB
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 27
+2024-03-09 10:10:51 - Warning: Memory usage not available for process 27
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 28
+2024-03-09 10:10:51 - Warning: Memory usage not available for process 28
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 29
+2024-03-09 10:10:51 - Warning: Memory usage not available for process 29
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 3
+2024-03-09 10:10:51 - Warning: Memory usage not available for process 3
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 31
+2024-03-09 10:10:51 - Warning: Memory usage not available for process 31
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 312
+2024-03-09 10:10:51 - Process 312 has exceeded memory threshold (80 KB): Memory usage is 7168 KB
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 3129
+2024-03-09 10:10:51 - Process 3129 has exceeded memory threshold (80 KB): Memory usage is 32128 KB
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 32
+2024-03-09 10:10:51 - Warning: Memory usage not available for process 32
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 32121
+2024-03-09 10:10:51 - Warning: Memory usage not available for process 32121
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 33
+2024-03-09 10:10:51 - Warning: Memory usage not available for process 33
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 3394
+2024-03-09 10:10:51 - Warning: Memory usage not available for process 3394
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 34
+2024-03-09 10:10:51 - Warning: Memory usage not available for process 34
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 35
+2024-03-09 10:10:51 - Warning: Memory usage not available for process 35
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 3507
+2024-03-09 10:10:51 - Warning: Memory usage not available for process 3507
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 35138
+2024-03-09 10:10:51 - Process 35138 has exceeded memory threshold (80 KB): Memory usage is 77276 KB
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 35148
+2024-03-09 10:10:51 - Process 35148 has exceeded memory threshold (80 KB): Memory usage is 5504 KB
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 355
+2024-03-09 10:10:51 - Warning: Memory usage not available for process 355
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 35610
+2024-03-09 10:10:51 - Warning: Memory usage not available for process 35610
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 35677
+2024-03-09 10:10:51 - Warning: Memory usage not available for process 35677
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 35678
+2024-03-09 10:10:51 - Warning: Memory usage not available for process 35678
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 35749
+2024-03-09 10:10:51 - Warning: Memory usage not available for process 35749
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 35750
+2024-03-09 10:10:51 - Warning: Memory usage not available for process 35750
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 35778
+2024-03-09 10:10:51 - Process 35778 has exceeded memory threshold (80 KB): Memory usage is 302296 KB
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 35827
+2024-03-09 10:10:51 - Process 35827 has exceeded memory threshold (80 KB): Memory usage is 72832 KB
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 35844
+2024-03-09 10:10:51 - Warning: Memory usage not available for process 35844
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 35846
+2024-03-09 10:10:51 - Warning: Memory usage not available for process 35846
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 35851
+2024-03-09 10:10:51 - Warning: Memory usage not available for process 35851
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 35907
+2024-03-09 10:10:51 - Warning: Memory usage not available for process 35907
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 3621
+2024-03-09 10:10:51 - Process 3621 has exceeded memory threshold (80 KB): Memory usage is 68912 KB
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 37
+2024-03-09 10:10:51 - Warning: Memory usage not available for process 37
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 373
+2024-03-09 10:10:51 - Warning: Memory usage not available for process 373
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 374
+2024-03-09 10:10:51 - Warning: Memory usage not available for process 374
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 375
+2024-03-09 10:10:51 - Warning: Memory usage not available for process 375
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 376
+2024-03-09 10:10:51 - Warning: Memory usage not available for process 376
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 377
+2024-03-09 10:10:51 - Warning: Memory usage not available for process 377
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 378
+2024-03-09 10:10:51 - Warning: Memory usage not available for process 378
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 3782
+2024-03-09 10:10:51 - Process 3782 has exceeded memory threshold (80 KB): Memory usage is 172168 KB
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 3784
+2024-03-09 10:10:51 - Process 3784 has exceeded memory threshold (80 KB): Memory usage is 48000 KB
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 3785
+2024-03-09 10:10:51 - Process 3785 has exceeded memory threshold (80 KB): Memory usage is 47616 KB
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 379
+2024-03-09 10:10:51 - Warning: Memory usage not available for process 379
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 3798
+2024-03-09 10:10:51 - Process 3798 has exceeded memory threshold (80 KB): Memory usage is 3456 KB
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 38
+2024-03-09 10:10:51 - Warning: Memory usage not available for process 38
+2024-03-09 10:10:51 - Warning: CPU usage not available for process 380
+2024-03-09 10:10:52 - Warning: Memory usage not available for process 380
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 3801
+2024-03-09 10:10:52 - Process 3801 has exceeded memory threshold (80 KB): Memory usage is 103312 KB
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 381
+2024-03-09 10:10:52 - Warning: Memory usage not available for process 381
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 382
+2024-03-09 10:10:52 - Warning: Memory usage not available for process 382
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 3821
+2024-03-09 10:10:52 - Process 3821 has exceeded memory threshold (80 KB): Memory usage is 81144 KB
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 3853
+2024-03-09 10:10:52 - Process 3853 has exceeded memory threshold (80 KB): Memory usage is 25168 KB
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 3882
+2024-03-09 10:10:52 - Process 3882 has exceeded memory threshold (80 KB): Memory usage is 66304 KB
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 39
+2024-03-09 10:10:52 - Warning: Memory usage not available for process 39
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 3913
+2024-03-09 10:10:52 - Process 3913 has exceeded memory threshold (80 KB): Memory usage is 293492 KB
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 3944
+2024-03-09 10:10:52 - Process 3944 has exceeded memory threshold (80 KB): Memory usage is 119600 KB
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 3973
+2024-03-09 10:10:52 - Process 3973 has exceeded memory threshold (80 KB): Memory usage is 96904 KB
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 3974
+2024-03-09 10:10:52 - Process 3974 has exceeded memory threshold (80 KB): Memory usage is 140608 KB
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 3993
+2024-03-09 10:10:52 - Process 3993 has exceeded memory threshold (80 KB): Memory usage is 99292 KB
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 3994
+2024-03-09 10:10:52 - Process 3994 has exceeded memory threshold (80 KB): Memory usage is 87632 KB
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 4
+2024-03-09 10:10:52 - Warning: Memory usage not available for process 4
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 40
+2024-03-09 10:10:52 - Warning: Memory usage not available for process 40
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 4034
+2024-03-09 10:10:52 - Process 4034 has exceeded memory threshold (80 KB): Memory usage is 5504 KB
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 4079
+2024-03-09 10:10:52 - Process 4079 has exceeded memory threshold (80 KB): Memory usage is 94664 KB
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 41
+2024-03-09 10:10:52 - Warning: Memory usage not available for process 41
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 43
+2024-03-09 10:10:52 - Warning: Memory usage not available for process 43
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 44
+2024-03-09 10:10:52 - Warning: Memory usage not available for process 44
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 45
+2024-03-09 10:10:52 - Warning: Memory usage not available for process 45
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 46
+2024-03-09 10:10:52 - Warning: Memory usage not available for process 46
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 466
+2024-03-09 10:10:52 - Warning: Memory usage not available for process 466
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 47
+2024-03-09 10:10:52 - Warning: Memory usage not available for process 47
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 479
+2024-03-09 10:10:52 - Warning: Memory usage not available for process 479
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 480
+2024-03-09 10:10:52 - Warning: Memory usage not available for process 480
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 481
+2024-03-09 10:10:52 - Warning: Memory usage not available for process 481
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 482
+2024-03-09 10:10:52 - Warning: Memory usage not available for process 482
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 483
+2024-03-09 10:10:52 - Process 483 has exceeded memory threshold (80 KB): Memory usage is 6784 KB
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 484
+2024-03-09 10:10:52 - Process 484 has exceeded memory threshold (80 KB): Memory usage is 13632 KB
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 485
+2024-03-09 10:10:52 - Process 485 has exceeded memory threshold (80 KB): Memory usage is 7424 KB
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 49
+2024-03-09 10:10:52 - Warning: Memory usage not available for process 49
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 5
+2024-03-09 10:10:52 - Warning: Memory usage not available for process 5
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 50
+2024-03-09 10:10:52 - Warning: Memory usage not available for process 50
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 50415
+2024-03-09 10:10:52 - Process 50415 has exceeded memory threshold (80 KB): Memory usage is 72176 KB
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 51
+2024-03-09 10:10:52 - Warning: Memory usage not available for process 51
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 52
+2024-03-09 10:10:52 - Warning: Memory usage not available for process 52
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 53
+2024-03-09 10:10:52 - Warning: Memory usage not available for process 53
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 54241
+2024-03-09 10:10:52 - Warning: Memory usage not available for process 54241
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 55
+2024-03-09 10:10:52 - Warning: Memory usage not available for process 55
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 559
+2024-03-09 10:10:52 - Process 559 has exceeded memory threshold (80 KB): Memory usage is 7504 KB
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 56
+2024-03-09 10:10:52 - Warning: Memory usage not available for process 56
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 562
+2024-03-09 10:10:52 - Process 562 has exceeded memory threshold (80 KB): Memory usage is 1792 KB
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 567
+2024-03-09 10:10:52 - Process 567 has exceeded memory threshold (80 KB): Memory usage is 3584 KB
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 57
+2024-03-09 10:10:52 - Warning: Memory usage not available for process 57
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 570
+2024-03-09 10:10:52 - Process 570 has exceeded memory threshold (80 KB): Memory usage is 5248 KB
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 572
+2024-03-09 10:10:52 - Process 572 has exceeded memory threshold (80 KB): Memory usage is 2944 KB
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 57300
+2024-03-09 10:10:52 - Warning: Memory usage not available for process 57300
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 57359
+2024-03-09 10:10:52 - Process 57359 has exceeded memory threshold (80 KB): Memory usage is 72192 KB
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 57392
+2024-03-09 10:10:52 - Warning: Memory usage not available for process 57392
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 57397
+2024-03-09 10:10:52 - Warning: Memory usage not available for process 57397
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 574
+2024-03-09 10:10:52 - Process 574 has exceeded memory threshold (80 KB): Memory usage is 6272 KB
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 57400
+2024-03-09 10:10:52 - Warning: Memory usage not available for process 57400
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 57409
+2024-03-09 10:10:52 - Warning: Memory usage not available for process 57409
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 57410
+2024-03-09 10:10:52 - Warning: Memory usage not available for process 57410
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 57421
+2024-03-09 10:10:52 - Warning: Memory usage not available for process 57421
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 57422
+2024-03-09 10:10:52 - Warning: Memory usage not available for process 57422
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 575
+2024-03-09 10:10:52 - Process 575 has exceeded memory threshold (80 KB): Memory usage is 19164 KB
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 57545
+2024-03-09 10:10:52 - Warning: Memory usage not available for process 57545
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 57587
+2024-03-09 10:10:52 - Process 57587 has exceeded memory threshold (80 KB): Memory usage is 4096 KB
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 58
+2024-03-09 10:10:52 - Warning: Memory usage not available for process 58
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 583
+2024-03-09 10:10:52 - Process 583 has exceeded memory threshold (80 KB): Memory usage is 7296 KB
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 589
+2024-03-09 10:10:52 - Process 589 has exceeded memory threshold (80 KB): Memory usage is 4096 KB
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 59
+2024-03-09 10:10:52 - Warning: Memory usage not available for process 59
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 591
+2024-03-09 10:10:52 - Process 591 has exceeded memory threshold (80 KB): Memory usage is 20608 KB
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 595
+2024-03-09 10:10:52 - Process 595 has exceeded memory threshold (80 KB): Memory usage is 10916 KB
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 596
+2024-03-09 10:10:52 - Warning: Memory usage not available for process 596
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 597
+2024-03-09 10:10:52 - Process 597 has exceeded memory threshold (80 KB): Memory usage is 7668 KB
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 6
+2024-03-09 10:10:52 - Warning: Memory usage not available for process 6
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 600
+2024-03-09 10:10:52 - Process 600 has exceeded memory threshold (80 KB): Memory usage is 5632 KB
+2024-03-09 10:10:52 - Error: Process 60015 not found.
+2024-03-09 10:10:52 - Error: Process 60015 not found.
+2024-03-09 10:10:52 - Error: Process 60016 not found.
+2024-03-09 10:10:52 - Error: Process 60016 not found.
+2024-03-09 10:10:52 - Error: Process 60017 not found.
+2024-03-09 10:10:52 - Error: Process 60017 not found.
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 61
+2024-03-09 10:10:52 - Warning: Memory usage not available for process 61
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 610
+2024-03-09 10:10:52 - Process 610 has exceeded memory threshold (80 KB): Memory usage is 33448 KB
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 614
+2024-03-09 10:10:52 - Process 614 has exceeded memory threshold (80 KB): Memory usage is 6656 KB
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 62
+2024-03-09 10:10:52 - Warning: Memory usage not available for process 62
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 623
+2024-03-09 10:10:52 - Process 623 has exceeded memory threshold (80 KB): Memory usage is 7724 KB
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 624
+2024-03-09 10:10:52 - Process 624 has exceeded memory threshold (80 KB): Memory usage is 10880 KB
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 625
+2024-03-09 10:10:52 - Process 625 has exceeded memory threshold (80 KB): Memory usage is 12996 KB
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 628
+2024-03-09 10:10:52 - Process 628 has exceeded memory threshold (80 KB): Memory usage is 11392 KB
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 63
+2024-03-09 10:10:52 - Warning: Memory usage not available for process 63
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 64
+2024-03-09 10:10:52 - Warning: Memory usage not available for process 64
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 66
+2024-03-09 10:10:52 - Warning: Memory usage not available for process 66
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 661
+2024-03-09 10:10:52 - Process 661 has exceeded memory threshold (80 KB): Memory usage is 1280 KB
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 67
+2024-03-09 10:10:52 - Warning: Memory usage not available for process 67
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 676
+2024-03-09 10:10:52 - Process 676 has exceeded memory threshold (80 KB): Memory usage is 12204 KB
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 69
+2024-03-09 10:10:52 - Warning: Memory usage not available for process 69
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 70
+2024-03-09 10:10:52 - Warning: Memory usage not available for process 70
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 705
+2024-03-09 10:10:52 - Process 705 has exceeded memory threshold (80 KB): Memory usage is 13440 KB
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 71
+2024-03-09 10:10:52 - Warning: Memory usage not available for process 71
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 710
+2024-03-09 10:10:52 - Process 710 has exceeded memory threshold (80 KB): Memory usage is 18432 KB
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 72
+2024-03-09 10:10:52 - Warning: Memory usage not available for process 72
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 73
+2024-03-09 10:10:52 - Warning: Memory usage not available for process 73
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 74
+2024-03-09 10:10:52 - Warning: Memory usage not available for process 74
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 75
+2024-03-09 10:10:52 - Warning: Memory usage not available for process 75
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 762
+2024-03-09 10:10:52 - Process 762 has exceeded memory threshold (80 KB): Memory usage is 8960 KB
+2024-03-09 10:10:52 - Warning: CPU usage not available for process 77
+2024-03-09 10:10:52 - Warning: Memory usage not available for process 77
+2024-03-09 10:10:53 - Warning: CPU usage not available for process 772
+2024-03-09 10:10:53 - Process 772 has exceeded memory threshold (80 KB): Memory usage is 6528 KB
+2024-03-09 10:10:53 - Warning: CPU usage not available for process 79
+2024-03-09 10:10:53 - Warning: Memory usage not available for process 79
+2024-03-09 10:10:53 - Warning: CPU usage not available for process 8
+2024-03-09 10:10:53 - Warning: Memory usage not available for process 8
+2024-03-09 10:10:53 - Warning: CPU usage not available for process 80
+2024-03-09 10:10:53 - Warning: Memory usage not available for process 80
+2024-03-09 10:10:53 - Warning: CPU usage not available for process 81
+2024-03-09 10:10:53 - Warning: Memory usage not available for process 81
+2024-03-09 10:10:53 - Warning: CPU usage not available for process 812
+2024-03-09 10:10:53 - Process 812 has exceeded memory threshold (80 KB): Memory usage is 23296 KB
+2024-03-09 10:10:53 - Warning: CPU usage not available for process 82
+2024-03-09 10:10:53 - Warning: Memory usage not available for process 82
+2024-03-09 10:10:53 - Warning: CPU usage not available for process 823
+2024-03-09 10:10:53 - Process 823 has exceeded memory threshold (80 KB): Memory usage is 11596 KB
+2024-03-09 10:10:53 - Warning: CPU usage not available for process 83
+2024-03-09 10:10:53 - Warning: Memory usage not available for process 83
+2024-03-09 10:10:53 - Warning: CPU usage not available for process 85
+2024-03-09 10:10:53 - Warning: Memory usage not available for process 85
+2024-03-09 10:10:53 - Warning: CPU usage not available for process 866
+2024-03-09 10:10:53 - Process 866 has exceeded memory threshold (80 KB): Memory usage is 3200 KB
+2024-03-09 10:10:53 - Warning: CPU usage not available for process 88
+2024-03-09 10:10:53 - Warning: Memory usage not available for process 88
+2024-03-09 10:10:53 - Warning: CPU usage not available for process 89
+2024-03-09 10:10:53 - Warning: Memory usage not available for process 89
+2024-03-09 10:10:53 - Warning: CPU usage not available for process 90
+2024-03-09 10:10:53 - Warning: Memory usage not available for process 90
+2024-03-09 10:10:53 - Warning: CPU usage not available for process 900
+2024-03-09 10:10:53 - Process 900 has exceeded memory threshold (80 KB): Memory usage is 9216 KB
+2024-03-09 10:10:53 - Warning: CPU usage not available for process 91
+2024-03-09 10:10:53 - Warning: Memory usage not available for process 91
+2024-03-09 10:10:53 - Warning: CPU usage not available for process 9104
+2024-03-09 10:10:53 - Process 9104 has exceeded memory threshold (80 KB): Memory usage is 474332 KB
+2024-03-09 10:10:53 - Warning: CPU usage not available for process 9302
+2024-03-09 10:10:53 - Process 9302 has exceeded memory threshold (80 KB): Memory usage is 48896 KB
+2024-03-09 10:10:53 - Warning: CPU usage not available for process 9327
+2024-03-09 10:10:53 - Process 9327 has exceeded memory threshold (80 KB): Memory usage is 116504 KB
+2024-03-09 10:10:53 - Warning: CPU usage not available for process 9366
+2024-03-09 10:10:53 - Process 9366 has exceeded memory threshold (80 KB): Memory usage is 19420 KB
+2024-03-09 10:10:53 - Warning: CPU usage not available for process 9448
+2024-03-09 10:10:53 - Process 9448 has exceeded memory threshold (80 KB): Memory usage is 300812 KB
+2024-03-09 10:10:53 - Warning: CPU usage not available for process 95
+2024-03-09 10:10:53 - Warning: Memory usage not available for process 95
+2024-03-09 10:10:53 - Warning: CPU usage not available for process 9627
+2024-03-09 10:10:53 - Process 9627 has exceeded memory threshold (80 KB): Memory usage is 59136 KB
+2024-03-09 10:10:53 - Warning: CPU usage not available for process 9638
+2024-03-09 10:10:53 - Process 9638 has exceeded memory threshold (80 KB): Memory usage is 200788 KB
+2024-03-09 10:10:53 - Warning: CPU usage not available for process 97
+2024-03-09 10:10:53 - Warning: Memory usage not available for process 97
+2024-03-09 10:10:53 - Warning: CPU usage not available for process 9730
+2024-03-09 10:10:53 - Process 9730 has exceeded memory threshold (80 KB): Memory usage is 483848 KB
+2024-03-09 10:10:53 - Warning: CPU usage not available for process 99
+2024-03-09 10:10:53 - Warning: Memory usage not available for process 99
+2024-03-09 10:10:53 - Process monitoring stopped
+2024-03-09 21:28:01 - Process monitoring started
+2024-03-09 21:28:06 - Process monitoring started
+2024-03-09 21:28:45 - Process monitoring started
+2024-03-09 21:28:59 - Process monitoring started
+2024-03-09 21:31:32 - Process monitoring stopped

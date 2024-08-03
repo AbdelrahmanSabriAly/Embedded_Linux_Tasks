@@ -1,0 +1,121 @@
+[warning] Apr 6 23:46:00 asabry-pc evince[3630]: message repeated 2 times: [ Unimplemented annotation: POPPLER_ANNOT_INK, please post a bug report in Evince issue tracker (https://gitlab.gnome.org/GNOME/evince/issues) with a testcase.]
+[warning] Apr 6 23:46:00 asabry-pc evince[3630]: Unimplemented annotation: POPPLER_ANNOT_INK, please post a bug report in Evince issue tracker (https://gitlab.gnome.org/GNOME/evince/issues) with a testcase.
+[warning] Apr 6 23:46:00 asabry-pc evince[3630]: Unimplemented annotation: POPPLER_ANNOT_INK, please post a bug report in Evince issue tracker (https://gitlab.gnome.org/GNOME/evince/issues) with a testcase.
+[warning] Apr 6 23:46:00 asabry-pc evince[3630]: Unimplemented annotation: POPPLER_ANNOT_INK, please post a bug report in Evince issue tracker (https://gitlab.gnome.org/GNOME/evince/issues) with a testcase.
+[warning] Apr 6 23:46:23 asabry-pc evince[3630]: Unimplemented annotation: POPPLER_ANNOT_INK, please post a bug report in Evince issue tracker (https://gitlab.gnome.org/GNOME/evince/issues) with a testcase.
+[error] Apr 6 23:46:44 asabry-pc kernel: [ 209.237677] audit: type=1400 audit(1712440004.820:58): apparmor="DENIED" operation="open" class="file" profile="/usr/bin/evince" name="/var/lib/aspell/en-common.rws" pid=3630 comm="evince" requested_mask="r" denied_mask="r" fsuid=1000 ouid=0
+[warning] Apr 6 23:46:44 asabry-pc kernel: [ 209.237677] audit: type=1400 audit(1712440004.820:58): apparmor="DENIED" operation="open" class="file" profile="/usr/bin/evince" name="/var/lib/aspell/en-common.rws" pid=3630 comm="evince" requested_mask="r" denied_mask="r" fsuid=1000 ouid=0
+[error] Apr 6 23:46:44 asabry-pc kernel: [ 209.237681] audit: type=1400 audit(1712440004.820:59): apparmor="DENIED" operation="open" class="file" profile="/usr/bin/evince" name="/var/lib/aspell/en-common.rws" pid=3630 comm="evince" requested_mask="r" denied_mask="r" fsuid=1000 ouid=0
+[warning] Apr 6 23:46:44 asabry-pc kernel: [ 209.237681] audit: type=1400 audit(1712440004.820:59): apparmor="DENIED" operation="open" class="file" profile="/usr/bin/evince" name="/var/lib/aspell/en-common.rws" pid=3630 comm="evince" requested_mask="r" denied_mask="r" fsuid=1000 ouid=0
+[error] Apr 6 23:46:45 asabry-pc kernel: [ 209.929278] audit: type=1400 audit(1712440005.512:60): apparmor="DENIED" operation="open" class="file" profile="/usr/bin/evince" name="/var/lib/aspell/en-common.rws" pid=3630 comm="evince" requested_mask="r" denied_mask="r" fsuid=1000 ouid=0
+[warning] Apr 6 23:46:45 asabry-pc kernel: [ 209.929278] audit: type=1400 audit(1712440005.512:60): apparmor="DENIED" operation="open" class="file" profile="/usr/bin/evince" name="/var/lib/aspell/en-common.rws" pid=3630 comm="evince" requested_mask="r" denied_mask="r" fsuid=1000 ouid=0
+[error] Apr 6 23:46:45 asabry-pc kernel: [ 209.929283] audit: type=1400 audit(1712440005.512:61): apparmor="DENIED" operation="open" class="file" profile="/usr/bin/evince" name="/var/lib/aspell/en-common.rws" pid=3630 comm="evince" requested_mask="r" denied_mask="r" fsuid=1000 ouid=0
+[warning] Apr 6 23:46:45 asabry-pc kernel: [ 209.929283] audit: type=1400 audit(1712440005.512:61): apparmor="DENIED" operation="open" class="file" profile="/usr/bin/evince" name="/var/lib/aspell/en-common.rws" pid=3630 comm="evince" requested_mask="r" denied_mask="r" fsuid=1000 ouid=0
+[warning] Apr 6 23:47:20 asabry-pc evince[3630]: message repeated 3 times: [ Unimplemented annotation: POPPLER_ANNOT_INK, please post a bug report in Evince issue tracker (https://gitlab.gnome.org/GNOME/evince/issues) with a testcase.]
+[warning] Apr 6 23:47:27 asabry-pc evince[3687]: message repeated 2 times: [ Unimplemented annotation: POPPLER_ANNOT_INK, please post a bug report in Evince issue tracker (https://gitlab.gnome.org/GNOME/evince/issues) with a testcase.]
+[warning] Apr 6 23:47:27 asabry-pc evince[3687]: Unimplemented annotation: POPPLER_ANNOT_INK, please post a bug report in Evince issue tracker (https://gitlab.gnome.org/GNOME/evince/issues) with a testcase.
+[warning] Apr 6 23:47:27 asabry-pc evince[3687]: Unimplemented annotation: POPPLER_ANNOT_INK, please post a bug report in Evince issue tracker (https://gitlab.gnome.org/GNOME/evince/issues) with a testcase.
+[warning] Apr 6 23:47:27 asabry-pc evince[3687]: Unimplemented annotation: POPPLER_ANNOT_INK, please post a bug report in Evince issue tracker (https://gitlab.gnome.org/GNOME/evince/issues) with a testcase.
+[error] Apr 6 23:47:31 asabry-pc kernel: [ 255.851894] audit: type=1400 audit(1712440051.429:62): apparmor="DENIED" operation="open" class="file" profile="/usr/bin/evince" name="/var/lib/aspell/en-common.rws" pid=3687 comm="evince" requested_mask="r" denied_mask="r" fsuid=1000 ouid=0
+[warning] Apr 6 23:47:31 asabry-pc kernel: [ 255.851894] audit: type=1400 audit(1712440051.429:62): apparmor="DENIED" operation="open" class="file" profile="/usr/bin/evince" name="/var/lib/aspell/en-common.rws" pid=3687 comm="evince" requested_mask="r" denied_mask="r" fsuid=1000 ouid=0
+[error] Apr 6 23:47:31 asabry-pc kernel: [ 255.851901] audit: type=1400 audit(1712440051.429:63): apparmor="DENIED" operation="open" class="file" profile="/usr/bin/evince" name="/var/lib/aspell/en-common.rws" pid=3687 comm="evince" requested_mask="r" denied_mask="r" fsuid=1000 ouid=0
+[warning] Apr 6 23:47:31 asabry-pc kernel: [ 255.851901] audit: type=1400 audit(1712440051.429:63): apparmor="DENIED" operation="open" class="file" profile="/usr/bin/evince" name="/var/lib/aspell/en-common.rws" pid=3687 comm="evince" requested_mask="r" denied_mask="r" fsuid=1000 ouid=0
+[warning] Apr 6 23:47:39 asabry-pc evince[3687]: Unimplemented annotation: POPPLER_ANNOT_INK, please post a bug report in Evince issue tracker (https://gitlab.gnome.org/GNOME/evince/issues) with a testcase.
+[warning] Apr 6 23:47:39 asabry-pc evince[3687]: Unimplemented annotation: POPPLER_ANNOT_INK, please post a bug report in Evince issue tracker (https://gitlab.gnome.org/GNOME/evince/issues) with a testcase.
+[warning] Apr 6 23:47:39 asabry-pc gnome-shell[1674]: Window manager warning: Overwriting existing binding of keysym 31 with keysym 31 (keycode a).
+[debug] Apr 6 23:47:39 asabry-pc gnome-shell[1674]: Window manager warning: Overwriting existing binding of keysym 32 with keysym 32 (keycode b).
+[debug] Apr 6 23:47:39 asabry-pc gnome-shell[1674]: Window manager warning: Overwriting existing binding of keysym 34 with keysym 34 (keycode d).
+[debug] Apr 6 23:47:39 asabry-pc gnome-shell[1674]: Window manager warning: Overwriting existing binding of keysym 35 with keysym 35 (keycode e).
+[error] Apr 6 23:47:39 asabry-pc gnome-shell[1674]: Window manager warning: Overwriting existing binding of keysym 35 with keysym 35 (keycode e).
+[info] Apr 6 23:47:39 asabry-pc gnome-shell[1674]: Window manager warning: Overwriting existing binding of keysym 36 with keysym 36 (keycode f).
+[warning] Apr 6 23:48:00 asabry-pc evince[3687]: Unimplemented annotation: POPPLER_ANNOT_INK, please post a bug report in Evince issue tracker (https://gitlab.gnome.org/GNOME/evince/issues) with a testcase.
+[warning] Apr 6 23:48:00 asabry-pc evince[3687]: Unimplemented annotation: POPPLER_ANNOT_INK, please post a bug report in Evince issue tracker (https://gitlab.gnome.org/GNOME/evince/issues) with a testcase.
+[warning] Apr 6 23:48:00 asabry-pc gnome-shell[1674]: Window manager warning: Overwriting existing binding of keysym 31 with keysym 31 (keycode a).
+[debug] Apr 6 23:48:00 asabry-pc gnome-shell[1674]: Window manager warning: Overwriting existing binding of keysym 32 with keysym 32 (keycode b).
+[debug] Apr 6 23:48:00 asabry-pc gnome-shell[1674]: Window manager warning: Overwriting existing binding of keysym 34 with keysym 34 (keycode d).
+[debug] Apr 6 23:48:00 asabry-pc gnome-shell[1674]: Window manager warning: Overwriting existing binding of keysym 35 with keysym 35 (keycode e).
+[error] Apr 6 23:48:00 asabry-pc gnome-shell[1674]: Window manager warning: Overwriting existing binding of keysym 35 with keysym 35 (keycode e).
+[info] Apr 6 23:48:00 asabry-pc gnome-shell[1674]: Window manager warning: Overwriting existing binding of keysym 36 with keysym 36 (keycode f).
+[warning] Apr 6 23:48:03 asabry-pc evince[3687]: Unimplemented annotation: POPPLER_ANNOT_INK, please post a bug report in Evince issue tracker (https://gitlab.gnome.org/GNOME/evince/issues) with a testcase.
+[warning] Apr 6 23:48:03 asabry-pc evince[3687]: Unimplemented annotation: POPPLER_ANNOT_INK, please post a bug report in Evince issue tracker (https://gitlab.gnome.org/GNOME/evince/issues) with a testcase.
+[warning] Apr 6 23:48:03 asabry-pc gnome-shell[1674]: Window manager warning: Overwriting existing binding of keysym 31 with keysym 31 (keycode a).
+[debug] Apr 6 23:48:03 asabry-pc gnome-shell[1674]: Window manager warning: Overwriting existing binding of keysym 32 with keysym 32 (keycode b).
+[debug] Apr 6 23:48:03 asabry-pc gnome-shell[1674]: Window manager warning: Overwriting existing binding of keysym 34 with keysym 34 (keycode d).
+[debug] Apr 6 23:48:03 asabry-pc gnome-shell[1674]: Window manager warning: Overwriting existing binding of keysym 35 with keysym 35 (keycode e).
+[error] Apr 6 23:48:03 asabry-pc gnome-shell[1674]: Window manager warning: Overwriting existing binding of keysym 35 with keysym 35 (keycode e).
+[info] Apr 6 23:48:03 asabry-pc gnome-shell[1674]: Window manager warning: Overwriting existing binding of keysym 36 with keysym 36 (keycode f).
+[warning] Apr 6 23:48:12 asabry-pc evince[3687]: Unimplemented annotation: POPPLER_ANNOT_INK, please post a bug report in Evince issue tracker (https://gitlab.gnome.org/GNOME/evince/issues) with a testcase.
+[warning] Apr 6 23:48:12 asabry-pc evince[3687]: Unimplemented annotation: POPPLER_ANNOT_INK, please post a bug report in Evince issue tracker (https://gitlab.gnome.org/GNOME/evince/issues) with a testcase.
+[warning] Apr 6 23:48:29 asabry-pc evince[3687]: Unimplemented annotation: POPPLER_ANNOT_INK, please post a bug report in Evince issue tracker (https://gitlab.gnome.org/GNOME/evince/issues) with a testcase.
+[warning] Apr 6 23:48:29 asabry-pc evince[3687]: Unimplemented annotation: POPPLER_ANNOT_INK, please post a bug report in Evince issue tracker (https://gitlab.gnome.org/GNOME/evince/issues) with a testcase.
+[error] Apr 6 23:48:29 asabry-pc kernel: [ 313.645268] audit: type=1400 audit(1712440109.210:64): apparmor="DENIED" operation="open" class="file" profile="/usr/bin/evince" name="/var/lib/aspell/en-common.rws" pid=3687 comm="evince" requested_mask="r" denied_mask="r" fsuid=1000 ouid=0
+[warning] Apr 6 23:48:29 asabry-pc kernel: [ 313.645268] audit: type=1400 audit(1712440109.210:64): apparmor="DENIED" operation="open" class="file" profile="/usr/bin/evince" name="/var/lib/aspell/en-common.rws" pid=3687 comm="evince" requested_mask="r" denied_mask="r" fsuid=1000 ouid=0
+[error] Apr 6 23:48:29 asabry-pc kernel: [ 313.645275] audit: type=1400 audit(1712440109.210:65): apparmor="DENIED" operation="open" class="file" profile="/usr/bin/evince" name="/var/lib/aspell/en-common.rws" pid=3687 comm="evince" requested_mask="r" denied_mask="r" fsuid=1000 ouid=0
+[warning] Apr 6 23:48:29 asabry-pc kernel: [ 313.645275] audit: type=1400 audit(1712440109.210:65): apparmor="DENIED" operation="open" class="file" profile="/usr/bin/evince" name="/var/lib/aspell/en-common.rws" pid=3687 comm="evince" requested_mask="r" denied_mask="r" fsuid=1000 ouid=0
+[warning] Apr 6 23:48:36 asabry-pc evince[3687]: Unimplemented annotation: POPPLER_ANNOT_INK, please post a bug report in Evince issue tracker (https://gitlab.gnome.org/GNOME/evince/issues) with a testcase.
+[warning] Apr 6 23:48:36 asabry-pc evince[3687]: Unimplemented annotation: POPPLER_ANNOT_INK, please post a bug report in Evince issue tracker (https://gitlab.gnome.org/GNOME/evince/issues) with a testcase.
+[warning] Apr 6 23:48:36 asabry-pc gnome-shell[1674]: Window manager warning: Overwriting existing binding of keysym 31 with keysym 31 (keycode a).
+[debug] Apr 6 23:48:36 asabry-pc gnome-shell[1674]: Window manager warning: Overwriting existing binding of keysym 32 with keysym 32 (keycode b).
+[debug] Apr 6 23:48:36 asabry-pc gnome-shell[1674]: Window manager warning: Overwriting existing binding of keysym 34 with keysym 34 (keycode d).
+[debug] Apr 6 23:48:36 asabry-pc gnome-shell[1674]: Window manager warning: Overwriting existing binding of keysym 35 with keysym 35 (keycode e).
+[error] Apr 6 23:48:36 asabry-pc gnome-shell[1674]: Window manager warning: Overwriting existing binding of keysym 35 with keysym 35 (keycode e).
+[info] Apr 6 23:48:36 asabry-pc gnome-shell[1674]: Window manager warning: Overwriting existing binding of keysym 36 with keysym 36 (keycode f).
+[warning] Apr 6 23:48:40 asabry-pc evince[3687]: Unimplemented annotation: POPPLER_ANNOT_INK, please post a bug report in Evince issue tracker (https://gitlab.gnome.org/GNOME/evince/issues) with a testcase.
+[warning] Apr 6 23:48:40 asabry-pc evince[3687]: Unimplemented annotation: POPPLER_ANNOT_INK, please post a bug report in Evince issue tracker (https://gitlab.gnome.org/GNOME/evince/issues) with a testcase.
+[warning] Apr 6 23:48:40 asabry-pc gnome-shell[1674]: Window manager warning: Overwriting existing binding of keysym 31 with keysym 31 (keycode a).
+[debug] Apr 6 23:48:40 asabry-pc gnome-shell[1674]: Window manager warning: Overwriting existing binding of keysym 32 with keysym 32 (keycode b).
+[debug] Apr 6 23:48:40 asabry-pc gnome-shell[1674]: Window manager warning: Overwriting existing binding of keysym 34 with keysym 34 (keycode d).
+[debug] Apr 6 23:48:40 asabry-pc gnome-shell[1674]: Window manager warning: Overwriting existing binding of keysym 35 with keysym 35 (keycode e).
+[error] Apr 6 23:48:40 asabry-pc gnome-shell[1674]: Window manager warning: Overwriting existing binding of keysym 35 with keysym 35 (keycode e).
+[info] Apr 6 23:48:40 asabry-pc gnome-shell[1674]: Window manager warning: Overwriting existing binding of keysym 36 with keysym 36 (keycode f).
+[warning] Apr 6 23:48:44 asabry-pc evince[3687]: Unimplemented annotation: POPPLER_ANNOT_INK, please post a bug report in Evince issue tracker (https://gitlab.gnome.org/GNOME/evince/issues) with a testcase.
+[warning] Apr 6 23:48:58 asabry-pc evince[3687]: message repeated 3 times: [ Unimplemented annotation: POPPLER_ANNOT_INK, please post a bug report in Evince issue tracker (https://gitlab.gnome.org/GNOME/evince/issues) with a testcase.]
+[debug] Apr 7 01:43:19 asabry-pc dbus-daemon[877]: [session uid=128 pid=877] AppArmor D-Bus mediation is enabled
+[warning] Apr 7 01:43:19 asabry-pc gnome-shell[910]: Running GNOME Shell (using mutter 42.9) as a Wayland display server
+[debug] Apr 7 01:43:19 asabry-pc systemd[848]: Listening on D-Bus User Message Bus Socket.
+[debug] Apr 7 01:43:19 asabry-pc systemd[848]: Started D-Bus User Message Bus.
+[debug] Apr 7 01:43:19 asabry-pc systemd[848]: Starting D-Bus User Message Bus Socket...
+[warning] Apr 7 01:43:20 asabry-pc gnome-shell[910]: Unset XDG_SESSION_ID, getCurrentSessionProxy() called outside a user session. Asking logind directly.
+[info] Apr 7 01:43:20 asabry-pc tracker-miner-f[915]: Unable to get XDG user directory path for special directory &DOCUMENTS. Ignoring this location.
+[info] Apr 7 01:43:20 asabry-pc tracker-miner-f[915]: Unable to get XDG user directory path for special directory &DOCUMENTS. Ignoring this location.
+[info] Apr 7 01:43:20 asabry-pc tracker-miner-f[915]: Unable to get XDG user directory path for special directory &DOWNLOAD. Ignoring this location.
+[info] Apr 7 01:43:20 asabry-pc tracker-miner-f[915]: Unable to get XDG user directory path for special directory &MUSIC. Ignoring this location.
+[info] Apr 7 01:43:20 asabry-pc tracker-miner-f[915]: Unable to get XDG user directory path for special directory &MUSIC. Ignoring this location.
+[info] Apr 7 01:43:20 asabry-pc tracker-miner-f[915]: Unable to get XDG user directory path for special directory &PICTURES. Ignoring this location.
+[info] Apr 7 01:43:20 asabry-pc tracker-miner-f[915]: Unable to get XDG user directory path for special directory &PICTURES. Ignoring this location.
+[info] Apr 7 01:43:20 asabry-pc tracker-miner-f[915]: Unable to get XDG user directory path for special directory &VIDEOS. Ignoring this location.
+[info] Apr 7 01:43:20 asabry-pc tracker-miner-f[915]: Unable to get XDG user directory path for special directory &VIDEOS. Ignoring this location.
+[error] Apr 7 01:43:21 asabry-pc /usr/libexec/gdm-wayland-session[888]: dbus-daemon[888]: [session uid=128 pid=888] Activating service name='org.freedesktop.portal.IBus' requested by ':1.36' (uid=128 pid=1341 comm="ibus-daemon --panel disable -r --xim " label="unconfined")
+[warning] Apr 7 01:43:21 asabry-pc /usr/libexec/gdm-wayland-session[888]: dbus-daemon[888]: [session uid=128 pid=888] Activating service name='org.freedesktop.portal.IBus' requested by ':1.36' (uid=128 pid=1341 comm="ibus-daemon --panel disable -r --xim " label="unconfined")
+[warning] Apr 7 01:43:24 asabry-pc systemd[1]: Started Check to see whether there is a new version of Ubuntu available.
+[warning] Apr 7 01:43:24 asabry-pc systemd[1]: This usually indicates unclean termination of a previous run, or service implementation deficiencies.
+[debug] Apr 7 01:43:30 asabry-pc dbus-daemon[1488]: [session uid=1000 pid=1488] AppArmor D-Bus mediation is enabled
+[warning] Apr 7 01:43:30 asabry-pc gnome-shell[1674]: Running GNOME Shell (using mutter 42.9) as a Wayland display server
+[debug] Apr 7 01:43:30 asabry-pc pulseaudio[1460]: Could not find org.bluez.BatteryProviderManager1.RegisterBatteryProvider(), is bluetoothd started with experimental features enabled (-E flag)?
+[error] Apr 7 01:43:30 asabry-pc pulseaudio[1460]: Could not find org.bluez.BatteryProviderManager1.RegisterBatteryProvider(), is bluetoothd started with experimental features enabled (-E flag)?
+[debug] Apr 7 01:43:30 asabry-pc systemd[1451]: Listening on D-Bus User Message Bus Socket.
+[debug] Apr 7 01:43:30 asabry-pc systemd[1451]: Started D-Bus User Message Bus.
+[debug] Apr 7 01:43:30 asabry-pc systemd[1451]: Starting D-Bus User Message Bus Socket...
+[warning] Apr 7 01:43:31 asabry-pc gnome-shell[1674]: Unset XDG_SESSION_ID, getCurrentSessionProxy() called outside a user session. Asking logind directly.
+[info] Apr 7 01:43:31 asabry-pc snapd-desktop-i[1736]: Checking session /org/freedesktop/login1/session/_32...
+[warning] Apr 7 01:43:31 asabry-pc snapd-desktop-i[1736]: Checking session /org/freedesktop/login1/session/_32...
+[info] Apr 7 01:43:31 asabry-pc snapd-desktop-i[1736]: Checking session /org/freedesktop/login1/session/c1...
+[warning] Apr 7 01:43:31 asabry-pc snapd-desktop-i[1736]: Checking session /org/freedesktop/login1/session/c1...
+[info] Apr 7 01:43:31 asabry-pc snapd-desktop-i[1736]: Failed to do gtk init. Waiting for a new session with desktop capabilities.
+[warning] Apr 7 01:43:31 asabry-pc snapd-desktop-i[1736]: Failed to do gtk init. Waiting for a new session with desktop capabilities.
+[info] Apr 7 01:43:31 asabry-pc snapd-desktop-i[1736]: Is a desktop session! Forcing a reload.
+[warning] Apr 7 01:43:31 asabry-pc snapd-desktop-i[1736]: Is a desktop session! Forcing a reload.
+[info] Apr 7 01:43:31 asabry-pc snapd-desktop-i[1736]: Loop exited. Forcing reload.
+[warning] Apr 7 01:43:31 asabry-pc snapd-desktop-i[1736]: Loop exited. Forcing reload.
+[warning] Apr 7 01:43:32 asabry-pc gnome-shell[1674]: Window manager warning: Overwriting existing binding of keysym 31 with keysym 31 (keycode a).
+[debug] Apr 7 01:43:32 asabry-pc gnome-shell[1674]: Window manager warning: Overwriting existing binding of keysym 32 with keysym 32 (keycode b).
+[debug] Apr 7 01:43:32 asabry-pc gnome-shell[1674]: Window manager warning: Overwriting existing binding of keysym 34 with keysym 34 (keycode d).
+[debug] Apr 7 01:43:32 asabry-pc gnome-shell[1674]: Window manager warning: Overwriting existing binding of keysym 35 with keysym 35 (keycode e).
+[error] Apr 7 01:43:32 asabry-pc gnome-shell[1674]: Window manager warning: Overwriting existing binding of keysym 35 with keysym 35 (keycode e).
+[info] Apr 7 01:43:32 asabry-pc gnome-shell[1674]: Window manager warning: Overwriting existing binding of keysym 36 with keysym 36 (keycode f).
+[info] Apr 7 01:43:33 asabry-pc snapd-desktop-i[2360]: All available theme snaps installed
+[warning] Apr 7 01:43:33 asabry-pc snapd-desktop-i[2360]: All available theme snaps installed
+[info] Apr 7 01:43:33 asabry-pc snapd-desktop-i[2360]: New theme: gtk=Yaru-dark icon=Yaru cursor=Yaru, sound=Yaru
+[warning] Apr 7 01:43:33 asabry-pc snapd-desktop-i[2360]: New theme: gtk=Yaru-dark icon=Yaru cursor=Yaru, sound=Yaru
+[debug] Apr 7 01:43:43 asabry-pc systemd[848]: Stopped D-Bus User Message Bus.
+[debug] Apr 7 01:43:43 asabry-pc systemd[848]: Stopping D-Bus User Message Bus...

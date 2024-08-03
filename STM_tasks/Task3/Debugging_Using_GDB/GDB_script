@@ -1,0 +1,13 @@
+define print_tokens
+        set $index = 0
+        while (Command_tokens[$index] != 0)
+                print Command_tokens[$index]
+                set $index = $index + 1
+        end
+end
+
+document print_tokens
+This function prints the tokens created using the function parse_command().
+end
+
+

@@ -1,0 +1,25 @@
+Log Analysis Report
+===================
+
+
+Summary for info logs:
+Total count: 182
+
+
+Summary for error logs:
+Total count: 162
+
+
+Summary for warning logs:
+Total count: 473
+
+
+Summary for debug logs:
+Total count: 258
+
+
+System Events Status:
+Tracking system events...
+[Event] System Startup Sequence Initiated: Not found in the logs.
+[Event] System health check OK: Not found in the logs.
+===================================================================================================
