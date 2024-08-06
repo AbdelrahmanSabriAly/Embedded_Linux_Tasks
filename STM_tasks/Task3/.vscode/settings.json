@@ -2,6 +2,8 @@
     "files.associations": {
         "utils.h": "c",
         "stdio.h": "c",
-        "stat.h": "c"
+        "stat.h": "c",
+        "cmds.h": "c",
+        "exit_status.h": "c"
     }
 }

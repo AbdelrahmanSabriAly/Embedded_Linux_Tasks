@@ -2,6 +2,7 @@
 
 This repository contains a basic shell program written in C that interprets user input and translates it into commands where possible. The shell includes several built-in commands as detailed below.
 
+![alt text](image.png)
 # Supported commands:
 
 ### 1. spwd: Prints the working directory.

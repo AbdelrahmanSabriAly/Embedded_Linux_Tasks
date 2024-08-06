@@ -1,0 +1,42 @@
+secho hello world    0
+cat                  0
+secho test new redir 0
+cat                  0
+secho test new redir 0
+cat                  0
+secho hello          0
+cat                  0
+rm                   0
+ls                   0
+secho hello          0
+cat                  0
+secho hell h         0
+cat                  0
+secho hello g        0
+cat                  0
+secho hello          0
+cat                  0
+secho hello          0
+cat                  0
+scp kaka kaka        3
+scp kaka kaka 2      3
+cat                  0
+vim                  0
+scp ka kaa 2         3
+cat                  0
+scp ka kaa 2         3
+scp ka kaa           3
+secho hello          0
+cat                  0
+scp ka kaka          3
+scp ka kaka          3
+cat                  0
+scp ka kaka 2        3
+cat                  0
+scp ka kaka 2        3
+cat                  0
+ls                   0
+scp ka kaka e        3
+cat                  0
+smv la lalala e      6
+cat                  0
