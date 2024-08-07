@@ -420,7 +420,15 @@ int substitute_variables(char *command) {
 
         char var_value[MAX_VAR_SIZE];
         if (get_variable(var_name, var_value) != S_EXIT_SUCCESS) {
-            var_value[0] = '\0'; /* Use empty string if variable not found */
+            const char *tempChar = getenv(var_name);
+            if(tempChar != NULL)
+            {
+                strcpy(var_value, tempChar);
+            }
+            else
+            {
+                var_value[0] = '\0'; /* Use empty string if variable not found */
+            }
         }
 
         size_t result_len = strlen(result);
