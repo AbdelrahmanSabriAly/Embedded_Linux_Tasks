@@ -32,11 +32,11 @@
  * This function checks the first token to determine which command to execute.
  * It handles built-in commands and external commands, and updates the command history.
  * 
- * @param tokens Array of strings containing the command and its arguments.
+ * @param Command_tokens Array of strings containing the command and its arguments.
  * @param full_command The full command string as input by the user.
  * @return int Status code indicating success or failure of the command execution.
  */
-int Execute_Command(char **tokens, char *full_command);
+int Execute_Command(char **Command_tokens, char *full_command);
 
 /**
  * @brief Executes a single command, handling redirections and command execution.
@@ -62,7 +62,7 @@ void Execute_Single_Command(char *full_command, char **Command_tokens, int redir
  * @param redirections Bitmask indicating the types of redirections to apply.
  * @param Target_files Array of strings containing filenames for redirection.
  */
-void Execute_Piped_Commands(char **commands, int num_pipes, int redirections, char Target_files[NUM_OF_STREAMS][MAX_FILE_NAME_SIZE]);
+int Execute_Piped_Commands(char **commands, int num_pipes, int redirections, char Target_files[NUM_OF_STREAMS][MAX_FILE_NAME_SIZE]);
 
 /**
  * @brief Parses a command string into individual commands separated by pipes.

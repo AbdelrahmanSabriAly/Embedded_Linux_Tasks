@@ -106,6 +106,12 @@ source execute.sh
 
 <br></br>
 
+### Variables
+![VARS](https://github.com/asabry7/output_samples/blob/main/variables.gif)
+
+
+<br></br>
+
 ### Redirection
 ![p5](https://github.com/asabry7/output_samples/blob/main/p5.gif)
 

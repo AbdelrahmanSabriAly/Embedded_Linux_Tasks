@@ -26,9 +26,8 @@
 
 int main()
 {
-    int continue_flag;
-    char variable_name[MAX_VAR_NAME_LEN]; 
-    char variable_value[MAX_VAR_VALUE_LEN]; 
+    char variable_name[MAX_VAR_SIZE]; 
+    char variable_value[MAX_VAR_SIZE]; 
     char *commands[MAX_PIPES + 1];
 
     char* shell_msg = " $ Go Ahead! > ";
@@ -41,67 +40,57 @@ int main()
 
     while(1)
     {
-        continue_flag = 0;
         char *Command_tokens[MAX_TOKENS] = {NULL}; 
+
+        /* Print username and host name */
         print_prompt();
-        Exit_Status = Print_Current_Directory(); 
+
+        /* Print the current working directory */
+        Print_Current_Directory(); 
+
+        /* Write "> Go Ahead" message "*/
         Write_syscall(STDOUT, shell_msg, white);
 
+        /* Read the command from user */
         int bytes_read = read(STDIN, full_command, BUFFER_SIZE - 1);
+
+        /* Null tirminate command */
         full_command[bytes_read] = '\0';  
         
+        /* Remove leading and trailing spaces from the command */
         trim_spaces(full_command);
-        reduce_spaces(full_command);
-        full_command[strcspn(full_command, "\n")] = 0;
 
+        /* Reduce number of spaces between words to 1 space */
+        reduce_spaces(full_command);
+
+        /* If enter is pressed => Do nothing */
         if (strlen(full_command) == 0) {
             continue;  
         }
 
-        
-
-        for(int i = 0 ; Command_tokens[i]!=NULL; i++)
+        /* If the command was variable declaration (contains =) */
+        if(contains_variable_declaration(full_command,variable_name,variable_value) == S_EXIT_SUCCESS)
         {
-            if(contains_variable_usage(Command_tokens[i],variable_name))
-            {
-                int Exit_Status = get_variable(variable_name, variable_value);
-                if(Exit_Status == S_EXIT_SUCCESS)
-                {
-                    Command_tokens[i] = variable_value;
-                }
-
-                else
-                {
-                    Write_syscall(STDERR,"Error: Variable not found\n", red);
-                    continue_flag = 1;
-                    break;
-                }
-            }
-
-            else if(contains_variable_declaration(full_command, variable_name, variable_value))
-            {
-                set_variable(variable_name, variable_value);
-                continue_flag = 1;
-                break;
-            }
-        
+            /* Add the variable to the variables file */
+            set_variable(variable_name,variable_value);
         }
 
-        if(continue_flag == 1)
-        {
-            continue;
-        }
+        /* If the command contains variable usage (contains $) => substitute by the its value */
+        substitute_variables(full_command);
 
+        /* Check if redirection is used */
         int redirections = SearchForRedirections(full_command, Target_files);
 
+        /* Convert command into tokens */
         Parse_Commands(full_command, Command_tokens); 
         
+        /* Check if piping is used (contain |) */
         int num_pipes = Parse_Pipes(full_command, commands);
 
         if (num_pipes == 0) {
             Execute_Single_Command(full_command, Command_tokens, redirections, Target_files);
         } else {
-            Execute_Piped_Commands(commands, num_pipes, redirections, Target_files);
+            Exit_Status = Execute_Piped_Commands(commands, num_pipes, redirections, Target_files);
         }
     }
 

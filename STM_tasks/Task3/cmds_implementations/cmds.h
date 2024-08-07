@@ -27,48 +27,48 @@ void Help_Command();
 /**
  * @brief Prints a user input string to stdout.
  * 
- * @param tokens Array of strings containing the command and its arguments.
+ * @param Command_tokens Array of strings containing the command and its arguments.
  * @return int Status code indicating success or failure.
  */
-int Echo_Command(char** tokens);
+int Echo_Command(char** Command_tokens);
 
 /**
  * @brief Copies a file to another file.
  * 
- * @param tokens Array of strings containing the command and its arguments.
+ * @param Command_tokens Array of strings containing the command and its arguments.
  * @return int Status code indicating success or failure.
  */
-int Copy_Command(char** tokens);
+int Copy_Command(char** Command_tokens);
 
 /**
  * @brief Moves a file to another location.
  * 
- * @param tokens Array of strings containing the command and its arguments.
+ * @param Command_tokens Array of strings containing the command and its arguments.
  * @return int Status code indicating success or failure.
  */
-int Move_Command(char** tokens);
+int Move_Command(char** Command_tokens);
 
 /**
  * @brief Changes the current working directory.
  * 
- * @param tokens Array of strings containing the command and its arguments.
+ * @param Command_tokens Array of strings containing the command and its arguments.
  * @return int Status code indicating success or failure.
  */
-int change_Directory_Command(char** tokens);
+int change_Directory_Command(char** Command_tokens);
 
 /**
  * @brief Prints environment variables.
  * 
- * @param tokens Array of strings containing the command and its arguments.
+ * @param Command_tokens Array of strings containing the command and its arguments.
  */
-void Print_Environmen_Variables(char **tokens);
+void Print_Environmen_Variables(char **Command_tokens);
 
 /**
  * @brief Prints the type of a command (Internal, External, or Unsupported).
  * 
- * @param tokens Array of strings containing the command and its arguments.
+ * @param Command_tokens Array of strings containing the command and its arguments.
  */
-void Type_of_Command(char** tokens);
+void Type_of_Command(char** Command_tokens);
 
 /**
  * @brief Adds a command to the history file with its exit status.
@@ -86,10 +86,10 @@ void print_history();
 /**
  * @brief Executes an external command.
  * 
- * @param tokens Array of strings containing the command and its arguments.
+ * @param Command_tokens Array of strings containing the command and its arguments.
  * @return int Status code indicating success or failure.
  */
-int Execute_External_Command(char **tokens);
+int Execute_External_Command(char **Command_tokens);
 
 /**
  * @brief Prints information about RAM usage.

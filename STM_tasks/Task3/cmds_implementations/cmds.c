@@ -83,17 +83,17 @@ void Help_Command() {
 
 }
 
-int Echo_Command(char** tokens)
+int Echo_Command(char** Command_tokens)
 {
-    if (tokens == NULL) {
+    if (Command_tokens == NULL) {
         Write_syscall(STDERR, "Error: Text pointer is NULL\n", red);
         return S_EXIT_FAILURE;
     }
 
-    for (int i = 1; tokens[i] != NULL; i++)
+    for (int i = 1; Command_tokens[i] != NULL; i++)
     {
         // Print token if no redirection operator is found
-        Write_syscall(STDOUT, tokens[i], green);
+        Write_syscall(STDOUT, Command_tokens[i], green);
         Write_syscall(STDOUT, " ", green);
     }
 
@@ -103,9 +103,9 @@ int Echo_Command(char** tokens)
 }
 
 
-int Copy_Command(char** tokens) 
+int Copy_Command(char** Command_tokens) 
 {
-    if (tokens == NULL) {
+    if (Command_tokens == NULL) {
         Write_syscall(STDERR, "Error: Invalid tokens array.\n", red);
         return S_EXIT_INVALID_COMMAND; // Error
     }
@@ -116,7 +116,7 @@ int Copy_Command(char** tokens)
     char buffer[BUFFER_SIZE];
     ssize_t bytesRead;
 
-    flags = Process_Options(tokens, &source_path, &target_path);
+    flags = Process_Options(Command_tokens, &source_path, &target_path);
 
     if (source_path == NULL || target_path == NULL) {
         Write_syscall(STDERR, "Error: No arguments passed to the command scp\n", red);
@@ -177,8 +177,8 @@ int Copy_Command(char** tokens)
 }
 
 
-int Move_Command(char** tokens) {
-    if (tokens == NULL) {
+int Move_Command(char** Command_tokens) {
+    if (Command_tokens == NULL) {
         Write_syscall(STDERR, "Error: Invalid tokens array.\n", red);
         return S_EXIT_INVALID_COMMAND; // Error
     }
@@ -188,7 +188,7 @@ int Move_Command(char** tokens) {
     char *source_filename;
     int flags;
 
-    flags = Process_Options(tokens, &source_path, &target_path);
+    flags = Process_Options(Command_tokens, &source_path, &target_path);
 
     if (source_path == NULL || target_path == NULL) {
         Write_syscall(STDERR, "Error: No arguments passed to the command smv\n", red);
@@ -249,15 +249,15 @@ int Move_Command(char** tokens) {
 }
 
 
-int change_Directory_Command(char** tokens) {
-    if (tokens == NULL || tokens[1] == NULL) {
+int change_Directory_Command(char** Command_tokens) {
+    if (Command_tokens == NULL || Command_tokens[1] == NULL) {
         Write_syscall(STDERR, "Error: No directory specified.\n", red);
         return S_EXIT_INVALID_COMMAND; // Error
     }
 
-    printf("new dir: %s\n", tokens[1]);
+    printf("new dir: %s\n", Command_tokens[1]);
 
-    int retValue = chdir(tokens[1]);
+    int retValue = chdir(Command_tokens[1]);
     if (retValue < 0) {
         perror("Change directory failed");
         return EXIT_FAILURE; // Error
@@ -266,16 +266,16 @@ int change_Directory_Command(char** tokens) {
     return EXIT_SUCCESS; // Success
 }
 
-void Print_Environmen_Variables(char **tokens) 
+void Print_Environmen_Variables(char **Command_tokens) 
 {
-    int NumOfTokens = 0;
+    int NumOfCommand_tokens = 0;
 
-    while(tokens[NumOfTokens] != NULL)
+    while(Command_tokens[NumOfCommand_tokens] != NULL)
     {
-        NumOfTokens++;
+        NumOfCommand_tokens++;
     }
     
-    if(NumOfTokens == 1)
+    if(NumOfCommand_tokens == 1)
     {
         /* No Variable passed => print all variables */
         for (int i = 0; __environ[i] != NULL; i++) 
@@ -284,10 +284,10 @@ void Print_Environmen_Variables(char **tokens)
             Write_syscall(STDOUT, "\n\n", white);
         }   
     }
-    else if(NumOfTokens == 2)
+    else if(NumOfCommand_tokens == 2)
     {
         /* Variable name passed => print that variable */
-        const char *variable_name = tokens[1];
+        const char *variable_name = Command_tokens[1];
         const char *variable_value = getenv(variable_name);
         
         if(variable_value != NULL)
@@ -303,14 +303,14 @@ void Print_Environmen_Variables(char **tokens)
 }
 
 
-void Type_of_Command(char** tokens)
+void Type_of_Command(char** Command_tokens)
 {
-    if(is_internal_command(tokens[1]) == S_EXIT_SUCCESS)
+    if(is_internal_command(Command_tokens[1]) == S_EXIT_SUCCESS)
     {
         Write_syscall(STDOUT, "Internal Command\n",blue);
     }
 
-    else if(is_external_command(tokens[1]) == S_EXIT_SUCCESS)
+    else if(is_external_command(Command_tokens[1]) == S_EXIT_SUCCESS)
     {
         Write_syscall(STDOUT, "External Command\n",green);
     }
@@ -368,7 +368,7 @@ void print_history() {
     close(fd);
 }
 
-int Execute_External_Command(char **tokens) {
+int Execute_External_Command(char **Command_tokens) {
 
     char *argv[10]; // Ensure this is large enough for your needs
 
@@ -385,8 +385,8 @@ int Execute_External_Command(char **tokens) {
 
         // Allocate memory for the command string
         size_t total_length = 1; // Start with 1 for the null terminator
-        for (int i = 0; tokens[i] != NULL; i++) {
-            total_length += strlen(tokens[i]) + 1; // +1 for the space
+        for (int i = 0; Command_tokens[i] != NULL; i++) {
+            total_length += strlen(Command_tokens[i]) + 1; // +1 for the space
         }
 
         char *cmd = malloc(total_length);
@@ -398,11 +398,11 @@ int Execute_External_Command(char **tokens) {
         // Initialize the cmd string
         cmd[0] = '\0';
 
-        // Concatenate tokens
-        for (int i = 0; tokens[i] != NULL; i++) {
-            strcat(cmd, tokens[i]);
-            if (tokens[i + 1] != NULL) {
-                strcat(cmd, " "); // Add a space between tokens
+        // Concatenate Command_tokens
+        for (int i = 0; Command_tokens[i] != NULL; i++) {
+            strcat(cmd, Command_tokens[i]);
+            if (Command_tokens[i + 1] != NULL) {
+                strcat(cmd, " "); // Add a space between Command_tokens
             }
         }
 
@@ -426,7 +426,7 @@ int Execute_External_Command(char **tokens) {
         }
 
         // Assuming add_to_history is defined elsewhere
-        add_to_history(tokens[0], exit_status);
+        add_to_history(Command_tokens[0], exit_status);
     }
 
     return exit_status;
