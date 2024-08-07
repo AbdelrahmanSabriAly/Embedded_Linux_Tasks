@@ -95,7 +95,6 @@ int main()
         int redirections = SearchForRedirections(full_command, Target_files);
 
         Parse_Commands(full_command, Command_tokens); 
-
         
         int num_pipes = Parse_Pipes(full_command, commands);
 

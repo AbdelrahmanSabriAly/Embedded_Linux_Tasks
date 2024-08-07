@@ -1,8 +1,12 @@
 # Simple Shell Program
 
-This repository contains a basic shell program written in C that interprets user input and translates it into commands where possible. The shell includes several built-in commands as detailed below.
+#### This repository contains a basic shell program written in C that interprets user input and translates it into commands where possible. The shell includes several built-in commands as detailed below.
+
+
+#### The following image illustrates the structure of the program:
 
 ![alt text](image.png)
+
 # Supported commands:
 
 ### 1. spwd: Prints the working directory.
@@ -40,6 +44,8 @@ This repository contains a basic shell program written in C that interprets user
     Usage: scd {path}
 
 ### 6. senvir: Prints all the environment variables
+    Notes:
+        - if you passed the env name to the command, it will print that command alone.
 
 ### 7. stype: Prints the type of the command
     Usage: 
@@ -56,39 +62,55 @@ This repository contains a basic shell program written in C that interprets user
 
 ### 10. shelp: Prints all supported commands along with a brief description of each.
 
+### 11. sfree: prints information about RAM.
+
+### 12 suptime: prints the system's uptime and idle time.
+
 <br></br>
 # Additional features:
 
-The shell supports pressing Enter key similar to a real shell.
+- The shell supports pressing Enter key similar to a real shell.
+- The shell supports redirection of input, output and error.
+- The shell supports piping multiple commands.
 
 <br></br>
 # Compilation and Execution
 
 To compile and run the program, use the following commands:
 ```
-gcc main.c utils.c -o output
-./output
+source execute.sh
 ```
 <br></br>
 # Output Samples:
 
-### scp Command:
-![cp](https://github.com/asabry7/output_samples/blob/main/cp.gif)
+### shelp, spwd, secho, scd and senvir:
+![p1](https://github.com/asabry7/output_samples/blob/main/p1.gif)
 
 
 <br></br>
 
-### smv Command
-![mv](https://github.com/asabry7/output_samples/blob/main/mv.gif)
+### scp and smv
+![p2](https://github.com/asabry7/output_samples/blob/main/p2.gif)
 
 <br></br>
 
-### Other internal commands:
-![internals](https://github.com/asabry7/output_samples/blob/main/other_internals.gif)
+### sfree, suptime, stype, sphist
+![p3](https://github.com/asabry7/output_samples/blob/main/p3.gif)
 
 
 <br></br>
 
-### External Commands:
-![external](https://github.com/asabry7/output_samples/blob/main/external.gif)
+### Some External Commands:
+![p4](https://github.com/asabry7/output_samples/blob/main/p4.gif)
 
+
+<br></br>
+
+### Redirection
+![p5](https://github.com/asabry7/output_samples/blob/main/p5.gif)
+
+
+<br></br>
+
+### Piping
+![p6](https://github.com/asabry7/output_samples/blob/main/p6.gif)

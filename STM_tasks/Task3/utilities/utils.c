@@ -62,11 +62,7 @@ int Execute_Command(char **tokens, char *full_command)
         Exit_Status = Move_Command(tokens);
         add_to_history(full_command, Exit_Status);
     }
-    else if(strcmp(tokens[0], "scd") == 0)
-    {
-        Exit_Status = change_Directory_Command(tokens);
-        add_to_history(full_command, Exit_Status);
-    }
+
     else if(strcmp(tokens[0], "senvir") == 0)
     {
         Print_Environmen_Variables(tokens);
@@ -112,22 +108,31 @@ int Execute_Command(char **tokens, char *full_command)
 }
 
 void Execute_Single_Command(char *full_command, char **Command_tokens, int redirections, char Target_files[NUM_OF_STREAMS][MAX_FILE_NAME_SIZE]) {
+    int Exit_Status;
+    
+    if(strcmp(Command_tokens[0], "scd") == 0)
+    {
+        Exit_Status = change_Directory_Command(Command_tokens);
+        add_to_history(full_command, Exit_Status);
+        return;
+    }
+    
     pid_t retPID = fork();
     if(retPID > 0) {
         int status;
         wait(&status);
         printLineSeparator();
-        if (WIFEXITED(status) && WEXITSTATUS(status) == EXIT_SUCCESS && strcmp(Command_tokens[0], "sexit") == 0) {
-            exit(0);
+        if (WIFEXITED(status) && WEXITSTATUS(status) == S_EXIT_SUCCESS && strcmp(Command_tokens[0], "sexit") == 0) {
+            exit(S_EXIT_SUCCESS);
         }
     } else if(retPID == 0) {
         if (redirections > 0) {
             if (Redirect(redirections, Target_files) < 0) {
                 perror("Redirection failed");
-                exit(EXIT_FAILURE);
+                exit(S_EXIT_FAILURE);
             }
         }
-        int Exit_Status = Execute_Command(Command_tokens, full_command);
+        Exit_Status = Execute_Command(Command_tokens, full_command);
         exit(Exit_Status);
     } else {
         perror("fork");
@@ -210,17 +215,16 @@ int Parse_Pipes(char *command, char **commands)
 
 
 int SearchForRedirections(char* command, char target_files[NUM_OF_STREAMS][MAX_FILE_NAME_SIZE]) {
-    const char *input_redirect = "<";
-    const char *output_redirect = ">";
-    const char *error_redirect = "2>";
+    const char *input_redirect  =   "<";
+    const char *output_redirect =   ">";
+    const char *error_redirect  =   "2>";
 
     int redirections = 0;
     char *pos;
     char *command_copy = strdup(command);  // Create a copy of the command to avoid modifying the original
     char *temp_command = command_copy;  // Temporary pointer for modifying the copy
-
     // Initialize target_files to empty strings
-    for (int i = 0; i < 3; i++) {
+    for (int i = 0; i < NUM_OF_STREAMS; i++) {
         target_files[i][0] = '\0';
     }
 
@@ -232,8 +236,8 @@ int SearchForRedirections(char* command, char target_files[NUM_OF_STREAMS][MAX_F
         sscanf(pos, "%99s", target_files[2]);
         trim_spaces(target_files[2]);
         // Remove the error redirection from the temporary command
-        char *end = pos + strlen(target_files[2]);
-        memmove(pos - strlen(error_redirect), end, strlen(end) + 1);
+        pos -= strlen(error_redirect);
+        *pos = '\0';
     }
 
     // Search for output redirection
@@ -244,8 +248,8 @@ int SearchForRedirections(char* command, char target_files[NUM_OF_STREAMS][MAX_F
         sscanf(pos, "%99s", target_files[1]);
         trim_spaces(target_files[1]);
         // Remove the output redirection from the temporary command
-        char *end = pos + strlen(target_files[1]);
-        memmove(pos - strlen(output_redirect), end, strlen(end) + 1);
+        pos -= strlen(output_redirect);
+        *pos = '\0';
     }
 
     // Search for input redirection
@@ -256,8 +260,8 @@ int SearchForRedirections(char* command, char target_files[NUM_OF_STREAMS][MAX_F
         sscanf(pos, "%99s", target_files[0]);
         trim_spaces(target_files[0]);
         // Remove the input redirection from the temporary command
-        char *end = pos + strlen(target_files[0]);
-        memmove(pos - strlen(input_redirect), end, strlen(end) + 1);
+        pos -= strlen(input_redirect);
+        *pos = '\0';
     }
 
     // Copy the modified command back to the original command string
@@ -270,6 +274,8 @@ int SearchForRedirections(char* command, char target_files[NUM_OF_STREAMS][MAX_F
     free(command_copy);  // Free the copied command
     return redirections;
 }
+
+
 
 int Redirect(int redirections, char target_files[NUM_OF_STREAMS][MAX_FILE_NAME_SIZE])
 {

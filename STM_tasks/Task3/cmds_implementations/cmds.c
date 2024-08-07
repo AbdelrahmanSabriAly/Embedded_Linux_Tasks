@@ -255,6 +255,8 @@ int change_Directory_Command(char** tokens) {
         return S_EXIT_INVALID_COMMAND; // Error
     }
 
+    printf("new dir: %s\n", tokens[1]);
+
     int retValue = chdir(tokens[1]);
     if (retValue < 0) {
         perror("Change directory failed");

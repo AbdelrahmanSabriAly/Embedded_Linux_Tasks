@@ -147,9 +147,9 @@ int Process_Options(char** tokens, char** source_path, char** target_path);
  * @brief Checks if a string is a valid variable name.
  * 
  * @param name The variable name to check.
- * @return bool Returns true if the variable name is valid, otherwise returns false.
+ * @return int Returns S_EXIT_SUCCESS if the variable name is valid, otherwise returns S_EXIT_FAILURE.
  */
-bool is_valid_variable_name(const char *name);
+int is_valid_variable_name(const char *name);
 
 /**
  * @brief Detects variable declarations in the format VAR_NAME=value and extracts the variable name and value.

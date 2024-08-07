@@ -12,7 +12,7 @@
 #ifndef CMDS_H
 #define CMDS_H
 
-#define MAX_COMMAND_LENGTH 20  // Adjust this length as needed
+#define MAX_COMMAND_LENGTH 35  // Adjust this length as needed
 
 /**
  * @brief Prints the shell prompt with the username and hostname.

@@ -226,14 +226,14 @@ int Process_Options(char** tokens, char** source_path, char** target_path)
 
 
 // Function to check if the string is a valid variable name
-bool is_valid_variable_name(const char *name) {
-    if (!name || !(*name)) return false;
-    if (!isalpha(*name) && *name != '_') return false;
+int is_valid_variable_name(const char *name) {
+    if (!name || !(*name)) return S_EXIT_FAILURE;
+    if (!isalpha(*name) && *name != '_') return S_EXIT_FAILURE;
     while (*name) {
-        if (!isalnum(*name) && *name != '_') return false;
+        if (!isalnum(*name) && *name != '_') return S_EXIT_FAILURE;
         name++;
     }
-    return true;
+    return S_EXIT_SUCCESS;
 }
 
 // Function to detect variable declarations (VAR_NAME=value)
