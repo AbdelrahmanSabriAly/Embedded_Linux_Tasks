@@ -76,7 +76,7 @@
 
 <br></br>
 
-# Prerequisut:
+# prerequisite:
 
 ```
 sudo apt-get install libreadline-dev
