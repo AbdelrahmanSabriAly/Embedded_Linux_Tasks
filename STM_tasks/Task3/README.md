@@ -71,14 +71,23 @@
 
 - The shell supports pressing Enter key similar to a real shell.
 - The shell supports redirection of input, output and error.
-- The shell supports piping multiple commands.
+- The shell supports multiple piping of commands.
+- The shell supports pressing up and down arrows to navigate through commands history.
 
 <br></br>
+
+# Prerequisut:
+
+```
+sudo apt-get install libreadline-dev
+```
+
 # Compilation and Execution
 
 To compile and run the program, use the following commands:
 ```
-source execute.sh
+make
+./output
 ```
 <br></br>
 # Output Samples:
@@ -119,4 +128,4 @@ source execute.sh
 <br></br>
 
 ### Piping
-![p6](https://github.com/asabry7/output_samples/blob/main/p6.gif)
+![p6](https://github.com/asabry7/output_samples/blob/main/piping.gif)

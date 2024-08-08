@@ -16,13 +16,6 @@
 #define MAX_PIPES           10
 #define MAX_COMMANDS        100
 
-#define ARROW_UP            0x41
-#define ARROW_DOWN          0x42
-#define ARROW_LEFT          0x44
-#define ARROW_RIGHT         0x43
-#define TAB                 0x09
-#define ESC                 0x1b
-
 #define NUM_OF_STREAMS      3
 #define MAX_FILE_NAME_SIZE  100
 

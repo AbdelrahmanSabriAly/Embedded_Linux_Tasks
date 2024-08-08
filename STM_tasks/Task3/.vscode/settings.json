@@ -5,5 +5,6 @@
         "stat.h": "c",
         "cmds.h": "c",
         "exit_status.h": "c"
-    }
+    },
+    "C_Cpp.errorSquiggles": "disabled"
 }

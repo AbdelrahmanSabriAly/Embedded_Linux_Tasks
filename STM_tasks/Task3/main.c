@@ -17,6 +17,8 @@
 #include <sys/types.h>
 #include <sys/wait.h>
 #include <fcntl.h>
+#include <readline/readline.h>
+#include <readline/history.h>
 
 #include "exit_status.h"
 #include "utilities/utils.h"
@@ -31,7 +33,7 @@ int main()
     char *commands[MAX_PIPES + 1];
 
     char* shell_msg = " $ Go Ahead! > ";
-    char full_command[BUFFER_SIZE];     
+    char* full_command;     
     int Exit_Status = 0;
     char Target_files[NUM_OF_STREAMS][MAX_FILE_NAME_SIZE];
     
@@ -48,14 +50,9 @@ int main()
         /* Print the current working directory */
         Print_Current_Directory(); 
 
-        /* Write "> Go Ahead" message "*/
-        Write_syscall(STDOUT, shell_msg, white);
-
         /* Read the command from user */
-        int bytes_read = read(STDIN, full_command, BUFFER_SIZE - 1);
-
-        /* Null tirminate command */
-        full_command[bytes_read] = '\0';  
+        full_command = readline(shell_msg);
+        add_history(full_command);
         
         /* Remove leading and trailing spaces from the command */
         trim_spaces(full_command);
